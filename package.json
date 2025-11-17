@@ -1,0 +1,13 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "exports": "./tokens.ts",
+  "author": "Dmytro Hula",
+  "type": "module",
+  "packageManager": "npm@11.6.2",
+  "engines": {
+    "node": ">=24.11",
+    "npm": ">=11.6"
+  },
+  "license": "MIT"
+}
