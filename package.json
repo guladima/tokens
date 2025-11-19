@@ -2,12 +2,8 @@
   "name": "tokens",
   "version": "1.0.0",
   "exports": {
-    ".": {
-      "types": "./types.ts",
-      "import": "./main.ts",
-      "node": "./main.ts",
-      "default": "./main.ts"
-    }
+    ".": "./main.ts",
+    "./types": "./types.ts"
   },
   "author": "Dmytro Hula",
   "type": "module",
