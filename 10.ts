@@ -2,6 +2,7 @@ import type { Token } from "./types.ts";
 
 export default [
   {
+    index: 0,
     chainId: 10,
     name: "Optimism",
     address: "0x4200000000000000000000000000000000000042",
@@ -9,6 +10,7 @@ export default [
     symbol: "OP",
   },
   {
+    index: 1,
     chainId: 10,
     name: "Worldcoin",
     address: "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
@@ -16,6 +18,7 @@ export default [
     symbol: "WLD",
   },
   {
+    index: 2,
     chainId: 10,
     name: "Tether USD",
     address: "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
@@ -23,6 +26,7 @@ export default [
     symbol: "USDT",
   },
   {
+    index: 3,
     chainId: 10,
     name: "USD Coin",
     address: "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
@@ -30,6 +34,7 @@ export default [
     symbol: "USDC",
   },
   {
+    index: 4,
     chainId: 10,
     name: "USD Coin",
     address: "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
@@ -37,6 +42,7 @@ export default [
     symbol: "USDC",
   },
   {
+    index: 5,
     chainId: 10,
     name: "Wrapped Ether",
     address: "0x4200000000000000000000000000000000000006",
@@ -44,6 +50,7 @@ export default [
     symbol: "WETH",
   },
   {
+    index: 6,
     chainId: 10,
     name: "Wrapped BTC",
     address: "0x68f180fcce6836688e9084f035309e29bf0a2095",
@@ -51,6 +58,7 @@ export default [
     symbol: "WBTC",
   },
   {
+    index: 7,
     chainId: 10,
     name: "Dai Stablecoin",
     address: "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
@@ -58,6 +66,7 @@ export default [
     symbol: "DAI",
   },
   {
+    index: 8,
     chainId: 10,
     name: "Synth sUSD",
     address: "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
@@ -65,6 +74,7 @@ export default [
     symbol: "sUSD",
   },
   {
+    index: 9,
     chainId: 10,
     name: "Collab.Land",
     address: "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
@@ -72,6 +82,7 @@ export default [
     symbol: "COLLAB",
   },
   {
+    index: 10,
     chainId: 10,
     name: "PCM",
     address: "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
@@ -79,6 +90,7 @@ export default [
     symbol: "PCM",
   },
   {
+    index: 11,
     chainId: 10,
     name: "Rigo Token",
     address: "0xecf46257ed31c329f204eb43e254c609dee143b3",
@@ -86,6 +98,7 @@ export default [
     symbol: "GRG",
   },
   {
+    index: 12,
     chainId: 10,
     name: "Aave Optimism WETH",
     address: "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
@@ -93,6 +106,7 @@ export default [
     symbol: "aOptWETH",
   },
   {
+    index: 13,
     chainId: 10,
     name: "Balancer",
     address: "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
@@ -100,6 +114,7 @@ export default [
     symbol: "BAL",
   },
   {
+    index: 14,
     chainId: 10,
     name: "LayerZero",
     address: "0x6985884c4392d348587b19cb9eaaf157f13271cd",
@@ -107,6 +122,7 @@ export default [
     symbol: "ZRO",
   },
   {
+    index: 15,
     chainId: 10,
     name: "Synthetix Network Token",
     address: "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
@@ -114,6 +130,7 @@ export default [
     symbol: "SNX",
   },
   {
+    index: 16,
     chainId: 10,
     name: "Aave Optimism USDC",
     address: "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
@@ -121,6 +138,7 @@ export default [
     symbol: "aOptUSDC",
   },
   {
+    index: 17,
     chainId: 10,
     name: "Synth sETH",
     address: "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
@@ -128,6 +146,7 @@ export default [
     symbol: "sETH",
   },
   {
+    index: 18,
     chainId: 10,
     name: "PoolTogether",
     address: "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
@@ -135,6 +154,7 @@ export default [
     symbol: "POOL",
   },
   {
+    index: 19,
     chainId: 10,
     name: "Velodrome",
     address: "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
@@ -142,6 +162,7 @@ export default [
     symbol: "VELO",
   },
   {
+    index: 20,
     chainId: 10,
     name: "Wrapped liquid staked Ether 2.0",
     address: "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
@@ -149,6 +170,7 @@ export default [
     symbol: "wstETH",
   },
   {
+    index: 21,
     chainId: 10,
     name: "ChainLink Token",
     address: "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
@@ -156,6 +178,7 @@ export default [
     symbol: "LINK",
   },
   {
+    index: 22,
     chainId: 10,
     name: "Lido DAO Token",
     address: "0xfdb794692724153d1488ccdbe0c56c252596735f",
@@ -163,6 +186,7 @@ export default [
     symbol: "LDO",
   },
   {
+    index: 23,
     chainId: 10,
     name: "Aave Optimism USDT",
     address: "0x6ab707aca953edaefbc4fd23ba73294241490620",
@@ -170,6 +194,7 @@ export default [
     symbol: "aOptUSDT",
   },
   {
+    index: 24,
     chainId: 10,
     name: "Hop",
     address: "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
@@ -177,6 +202,7 @@ export default [
     symbol: "HOP",
   },
   {
+    index: 25,
     chainId: 10,
     name: "Aave Optimism OP",
     address: "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
@@ -184,6 +210,7 @@ export default [
     symbol: "aOptOP",
   },
   {
+    index: 26,
     chainId: 10,
     name: "Renzo Restaked ETH",
     address: "0x2416092f143378750bb29b79ed961ab195cceea5",
@@ -191,6 +218,7 @@ export default [
     symbol: "ezETH",
   },
   {
+    index: 27,
     chainId: 10,
     name: "Moo BIFI",
     address: "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
@@ -198,6 +226,7 @@ export default [
     symbol: "mooBIFI",
   },
   {
+    index: 28,
     chainId: 10,
     name: "Aave Optimism SUSD",
     address: "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
@@ -205,6 +234,7 @@ export default [
     symbol: "aOptSUSD",
   },
   {
+    index: 29,
     chainId: 10,
     name: "USD+",
     address: "0x73cb180bf0521828d8849bc8cf2b920918e23032",
@@ -212,6 +242,7 @@ export default [
     symbol: "USD+",
   },
   {
+    index: 30,
     chainId: 10,
     name: "Aave Optimism AAVE",
     address: "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
@@ -219,6 +250,7 @@ export default [
     symbol: "aOptAAVE",
   },
   {
+    index: 31,
     chainId: 10,
     name: "Frax",
     address: "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
@@ -226,6 +258,7 @@ export default [
     symbol: "FRAX",
   },
   {
+    index: 32,
     chainId: 10,
     name: "Lyra Token",
     address: "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
@@ -233,6 +266,7 @@ export default [
     symbol: "LYRA",
   },
   {
+    index: 33,
     chainId: 10,
     name: "DexToro",
     address: "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
@@ -240,6 +274,7 @@ export default [
     symbol: "DTORO",
   },
   {
+    index: 34,
     chainId: 10,
     name: "Aave Optimism DAI",
     address: "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
@@ -247,6 +282,7 @@ export default [
     symbol: "aOptDAI",
   },
   {
+    index: 35,
     chainId: 10,
     name: "Wormhole Token",
     address: "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
@@ -254,6 +290,7 @@ export default [
     symbol: "W",
   },
   {
+    index: 36,
     chainId: 10,
     name: "Extra Finance",
     address: "0x2dad3a13ef0c6366220f989157009e501e7938f8",
@@ -261,6 +298,7 @@ export default [
     symbol: "EXTRA",
   },
   {
+    index: 37,
     chainId: 10,
     name: "Aave Optimism rETH",
     address: "0x724dc807b04555b71ed48a6896b6f41593b8c637",
@@ -268,6 +306,7 @@ export default [
     symbol: "aOptrETH",
   },
   {
+    index: 38,
     chainId: 10,
     name: "Wootrade Network",
     address: "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527",
@@ -275,6 +314,7 @@ export default [
     symbol: "WOO",
   },
   {
+    index: 39,
     chainId: 10,
     name: "Dentacoin",
     address: "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
@@ -282,6 +322,7 @@ export default [
     symbol: "DCN",
   },
   {
+    index: 40,
     chainId: 10,
     name: "Dola USD Stablecoin",
     address: "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
@@ -289,6 +330,7 @@ export default [
     symbol: "DOLA",
   },
   {
+    index: 41,
     chainId: 10,
     name: "Hyperlane",
     address: "0x9923db8d7fbacc2e69e87fad19b886c81cd74979",
@@ -296,6 +338,7 @@ export default [
     symbol: "HYPER",
   },
   {
+    index: 42,
     chainId: 10,
     name: "USDe",
     address: "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -303,6 +346,7 @@ export default [
     symbol: "USDe",
   },
   {
+    index: 43,
     chainId: 10,
     name: "Optimism tBTC v2",
     address: "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
@@ -310,6 +354,7 @@ export default [
     symbol: "tBTC",
   },
   {
+    index: 44,
     chainId: 10,
     name: "exactly USDC",
     address: "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb",
@@ -317,6 +362,7 @@ export default [
     symbol: "exaUSDC",
   },
   {
+    index: 45,
     chainId: 10,
     name: "Aave Optimism wstETH",
     address: "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
@@ -324,6 +370,7 @@ export default [
     symbol: "aOptwstETH",
   },
   {
+    index: 46,
     chainId: 10,
     name: "Frax Share",
     address: "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be",
@@ -331,6 +378,7 @@ export default [
     symbol: "FXS",
   },
   {
+    index: 47,
     chainId: 10,
     name: "Synth sBTC",
     address: "0x298b9b95708152ff6968aafd889c6586e9169f1d",
@@ -338,6 +386,7 @@ export default [
     symbol: "sBTC",
   },
   {
+    index: 48,
     chainId: 10,
     name: "Kyber Network Crystal v2",
     address: "0xa00e3a3511aac35ca78530c85007afcd31753819",
@@ -345,6 +394,7 @@ export default [
     symbol: "KNC",
   },
   {
+    index: 49,
     chainId: 10,
     name: "Pendle",
     address: "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
@@ -352,6 +402,7 @@ export default [
     symbol: "PENDLE",
   },
   {
+    index: 50,
     chainId: 10,
     name: "BOB",
     address: "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
@@ -359,6 +410,7 @@ export default [
     symbol: "BOB",
   },
   {
+    index: 51,
     chainId: 10,
     name: "Tarot",
     address: "0x1f514a61bcde34f94bc39731235690ab9da737f7",
@@ -366,6 +418,7 @@ export default [
     symbol: "TAROT",
   },
   {
+    index: 52,
     chainId: 10,
     name: "Overtime DAO Token",
     address: "0xedf38688b27036816a50185caa430d5479e1c63e",
@@ -373,6 +426,7 @@ export default [
     symbol: "OVER",
   },
   {
+    index: 53,
     chainId: 10,
     name: "Everclear",
     address: "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
@@ -380,6 +434,7 @@ export default [
     symbol: "CLEAR",
   },
   {
+    index: 54,
     chainId: 10,
     name: "Synth sLINK",
     address: "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
@@ -387,6 +442,7 @@ export default [
     symbol: "sLINK",
   },
   {
+    index: 55,
     chainId: 10,
     name: "Dephaser JPY",
     address: "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
@@ -394,6 +450,7 @@ export default [
     symbol: "JPYT",
   },
   {
+    index: 56,
     chainId: 10,
     name: "Coinbase Wrapped Staked ETH",
     address: "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
@@ -401,6 +458,7 @@ export default [
     symbol: "cbETH",
   },
   {
+    index: 57,
     chainId: 10,
     name: "Axelar Wrapped USDC",
     address: "0xeb466342c4d449bc9f53a865d5cb90586f405215",
@@ -408,6 +466,7 @@ export default [
     symbol: "axlUSDC",
   },
   {
+    index: 58,
     chainId: 10,
     name: "Aave Optimism WBTC",
     address: "0x078f358208685046a11c85e8ad32895ded33a249",
@@ -415,6 +474,7 @@ export default [
     symbol: "aOptWBTC",
   },
   {
+    index: 59,
     chainId: 10,
     name: "IronBank",
     address: "0x00a35fd824c717879bf370e70ac6868b95870dfb",
@@ -422,6 +482,7 @@ export default [
     symbol: "IB",
   },
   {
+    index: 60,
     chainId: 10,
     name: "Frax Ether",
     address: "0x6806411765af15bddd26f8f544a34cc40cb9838b",
@@ -429,6 +490,7 @@ export default [
     symbol: "frxETH",
   },
   {
+    index: 61,
     chainId: 10,
     name: "exactly USDC.e",
     address: "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
@@ -436,6 +498,7 @@ export default [
     symbol: "exaUSDC.e",
   },
   {
+    index: 62,
     chainId: 10,
     name: "Aura",
     address: "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
@@ -443,6 +506,7 @@ export default [
     symbol: "AURA",
   },
   {
+    index: 63,
     chainId: 10,
     name: "Giveth Token",
     address: "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
@@ -450,6 +514,7 @@ export default [
     symbol: "GIV",
   },
   {
+    index: 64,
     chainId: 10,
     name: "Celo native asset",
     address: "0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349",
@@ -457,6 +522,7 @@ export default [
     symbol: "CELO",
   },
   {
+    index: 65,
     chainId: 10,
     name: "Aave Optimism LINK",
     address: "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
@@ -464,6 +530,7 @@ export default [
     symbol: "aOptLINK",
   },
   {
+    index: 66,
     chainId: 10,
     name: "Penpie Token",
     address: "0xc4a65a93dd6cd9717551ebe827e8baee025d1d7e",
@@ -471,6 +538,7 @@ export default [
     symbol: "PNP",
   },
   {
+    index: 67,
     chainId: 10,
     name: "xSpace Token",
     address: "0x1d1498166ddceee616a6d99868e1e0677300056f",
@@ -478,6 +546,7 @@ export default [
     symbol: "xSPACE",
   },
   {
+    index: 68,
     chainId: 10,
     name: "Geyser",
     address: "0x117cfd9060525452db4a34d51c0b3b7599087f05",
@@ -485,6 +554,7 @@ export default [
     symbol: "GYSR",
   },
   {
+    index: 69,
     chainId: 10,
     name: "Jarvis Reward Token",
     address: "0x15e770b95edd73fd96b02ece0266247d50895e76",
@@ -492,6 +562,7 @@ export default [
     symbol: "JRT",
   },
   {
+    index: 70,
     chainId: 10,
     name: "PickleToken",
     address: "0x0c5b4c92c948691eebf185c17eeb9c230dc019e9",
@@ -499,6 +570,7 @@ export default [
     symbol: "PICKLE",
   },
   {
+    index: 71,
     chainId: 10,
     name: "1INCH Token",
     address: "0xad42d013ac31486b73b6b059e748172994736426",
@@ -506,6 +578,7 @@ export default [
     symbol: "1INCH",
   },
   {
+    index: 72,
     chainId: 10,
     name: "MetalSwap",
     address: "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
@@ -513,6 +586,7 @@ export default [
     symbol: "XMT",
   },
   {
+    index: 73,
     chainId: 10,
     name: "TrueUSD",
     address: "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
@@ -520,6 +594,7 @@ export default [
     symbol: "TUSD",
   },
   {
+    index: 74,
     chainId: 10,
     name: "Quack Token",
     address: "0x59debed8d46a0cb823d8be8b957add987ead39aa",
@@ -527,6 +602,7 @@ export default [
     symbol: "QUACK",
   },
   {
+    index: 75,
     chainId: 10,
     name: "Dackie Token",
     address: "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
@@ -534,6 +610,7 @@ export default [
     symbol: "DACKIE",
   },
   {
+    index: 76,
     chainId: 10,
     name: "Ionic",
     address: "0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc",
@@ -541,6 +618,7 @@ export default [
     symbol: "ION",
   },
   {
+    index: 77,
     chainId: 10,
     name: "Equalizer",
     address: "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
@@ -548,6 +626,7 @@ export default [
     symbol: "EQZ",
   },
   {
+    index: 78,
     chainId: 10,
     name: "Autonolas",
     address: "0xfc2e6e6bcbd49ccf3a5f029c79984372dcbfe527",
@@ -555,6 +634,7 @@ export default [
     symbol: "OLAS",
   },
   {
+    index: 79,
     chainId: 10,
     name: "Rocket Pool Protocol",
     address: "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401",
@@ -562,6 +642,7 @@ export default [
     symbol: "RPL",
   },
   {
+    index: 80,
     chainId: 10,
     name: "Promethios",
     address: "0xb25ea095997f5bbaa6cea962c4fbf3bfc3c09776",
@@ -569,6 +650,7 @@ export default [
     symbol: "FIRE",
   },
   {
+    index: 81,
     chainId: 10,
     name: "Nya",
     address: "0x38f9bf9dce51833ec7f03c9dc218197999999999",
@@ -576,6 +658,7 @@ export default [
     symbol: "NYA",
   },
   {
+    index: 82,
     chainId: 10,
     name: "O3 Swap Token",
     address: "0xee9801669c6138e84bd50deb500827b776777d28",
@@ -583,6 +666,7 @@ export default [
     symbol: "O3",
   },
   {
+    index: 83,
     chainId: 10,
     name: "Velora",
     address: "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
@@ -590,6 +674,7 @@ export default [
     symbol: "VLR",
   },
   {
+    index: 84,
     chainId: 10,
     name: "Zunami Token",
     address: "0x25193034153afb4251a8e02a8db0deaef4c876f6",
@@ -597,6 +682,7 @@ export default [
     symbol: "ZUN",
   },
   {
+    index: 85,
     chainId: 10,
     name: "ENA",
     address: "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
@@ -604,6 +690,7 @@ export default [
     symbol: "ENA",
   },
   {
+    index: 86,
     chainId: 10,
     name: "Aave Optimism LUSD",
     address: "0x8eb270e296023e9d92081fdf967ddd7878724424",
@@ -611,6 +698,7 @@ export default [
     symbol: "aOptLUSD",
   },
   {
+    index: 87,
     chainId: 10,
     name: "Staked Frax Ether",
     address: "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
@@ -618,6 +706,7 @@ export default [
     symbol: "sfrxETH",
   },
   {
+    index: 88,
     chainId: 10,
     name: "ROOBEE",
     address: "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
@@ -625,6 +714,7 @@ export default [
     symbol: "ROOBEE",
   },
   {
+    index: 89,
     chainId: 10,
     name: "Staked USDe",
     address: "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
@@ -632,6 +722,7 @@ export default [
     symbol: "sUSDe",
   },
   {
+    index: 90,
     chainId: 10,
     name: "Kryll",
     address: "0x2ed6222cb75e353b8789bec7bb443b7ec9022021",
@@ -639,6 +730,7 @@ export default [
     symbol: "KRL",
   },
   {
+    index: 91,
     chainId: 10,
     name: "Pyth Network",
     address: "0x99c59acebfef3bbfb7129dc90d1a11db0e91187f",
@@ -646,6 +738,7 @@ export default [
     symbol: "PYTH",
   },
   {
+    index: 92,
     chainId: 10,
     name: "TerraUSD",
     address: "0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80",
@@ -653,6 +746,7 @@ export default [
     symbol: "UST",
   },
   {
+    index: 93,
     chainId: 10,
     name: "Wild Goat Coin",
     address: "0x3d63825b0d8669307366e6c8202f656b9e91d368",
@@ -660,6 +754,7 @@ export default [
     symbol: "WGC",
   },
   {
+    index: 94,
     chainId: 10,
     name: "Frax USD",
     address: "0x80eede496655fb9047dd39d9f418d5483ed600df",
@@ -667,6 +762,7 @@ export default [
     symbol: "frxUSD",
   },
   {
+    index: 95,
     chainId: 10,
     name: "Spectra Token",
     address: "0x248f43b622ce2f35a14db3fc528284730b619cd5",
@@ -674,6 +770,7 @@ export default [
     symbol: "SPECTRA",
   },
   {
+    index: 96,
     chainId: 10,
     name: "SecureChain AI",
     address: "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5",
@@ -681,6 +778,7 @@ export default [
     symbol: "SCAI",
   },
   {
+    index: 97,
     chainId: 10,
     name: "Rari Governance Token",
     address: "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
@@ -688,6 +786,7 @@ export default [
     symbol: "RGT",
   },
   {
+    index: 98,
     chainId: 10,
     name: "YieldFi yUSD",
     address: "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
@@ -695,6 +794,7 @@ export default [
     symbol: "yUSD",
   },
   {
+    index: 99,
     chainId: 10,
     name: "Frax Ether",
     address: "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",

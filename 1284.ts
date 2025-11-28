@@ -2,6 +2,7 @@ import type { Token } from "./types.ts";
 
 export default [
   {
+    index: 0,
     chainId: 1284,
     name: "Wrapped GLMR",
     address: "0xacc15dc74880c9944775448304b263d191c6077f",
@@ -9,6 +10,7 @@ export default [
     symbol: "WGLMR",
   },
   {
+    index: 1,
     chainId: 1284,
     name: "XEN Crypto",
     address: "0xb564a5767a00ee9075cac561c427643286f8f4e1",
@@ -16,6 +18,7 @@ export default [
     symbol: "mbXEN",
   },
   {
+    index: 2,
     chainId: 1284,
     name: "Beamswap Token",
     address: "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
@@ -23,6 +26,7 @@ export default [
     symbol: "GLINT",
   },
   {
+    index: 3,
     chainId: 1284,
     name: "StellaSwap",
     address: "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
@@ -30,6 +34,7 @@ export default [
     symbol: "STELLA",
   },
   {
+    index: 4,
     chainId: 1284,
     name: "USD Coin",
     address: "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
@@ -37,6 +42,7 @@ export default [
     symbol: "USDC",
   },
   {
+    index: 5,
     chainId: 1284,
     name: "USD Coin",
     address: "0x931715fee2d06333043d11f658c8ce934ac61d0c",
@@ -44,6 +50,7 @@ export default [
     symbol: "USDC",
   },
   {
+    index: 6,
     chainId: 1284,
     name: "Binance-Peg BUSD Token",
     address: "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
@@ -51,6 +58,7 @@ export default [
     symbol: "BUSD",
   },
   {
+    index: 7,
     chainId: 1284,
     name: "Cougar Token",
     address: "0x2dfc76901bb2ac2a5fa5fc479590a490bbb10a5f",
@@ -58,6 +66,7 @@ export default [
     symbol: "CGS",
   },
   {
+    index: 8,
     chainId: 1284,
     name: "RMRK",
     address: "0x524d524b4c9366be706d3a90dcf70076ca037ae3",
@@ -65,6 +74,7 @@ export default [
     symbol: "RMRK",
   },
   {
+    index: 9,
     chainId: 1284,
     name: "Wrapped Ether",
     address: "0xab3f0245b83feb11d15aaffefd7ad465a59817ed",
@@ -72,6 +82,7 @@ export default [
     symbol: "WETH",
   },
   {
+    index: 10,
     chainId: 1284,
     name: "Tether USD",
     address: "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
@@ -79,6 +90,7 @@ export default [
     symbol: "USDT",
   },
   {
+    index: 11,
     chainId: 1284,
     name: "Staked GLINT",
     address: "0x63d43d0edda7de4b5ed9b2f2aa855f81fbd71697",
@@ -86,6 +98,7 @@ export default [
     symbol: "stGLINT",
   },
   {
+    index: 12,
     chainId: 1284,
     name: "Avalanche",
     address: "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
@@ -93,6 +106,7 @@ export default [
     symbol: "AVAX",
   },
   {
+    index: 13,
     chainId: 1284,
     name: "xcDOT",
     address: "0xffffffff1fcacbd218edc0eba20fc2308c778080",
@@ -100,6 +114,7 @@ export default [
     symbol: "xcDOT",
   },
   {
+    index: 14,
     chainId: 1284,
     name: "Frax",
     address: "0x322e86852e492a7ee17f28a78c663da38fb33bfb",
@@ -107,6 +122,7 @@ export default [
     symbol: "FRAX",
   },
   {
+    index: 15,
     chainId: 1284,
     name: "Matic",
     address: "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
@@ -114,6 +130,7 @@ export default [
     symbol: "MATIC",
   },
   {
+    index: 16,
     chainId: 1284,
     name: "Stella stDOT",
     address: "0xbc7e02c4178a7df7d3e564323a5c359dc96c4db4",
@@ -121,6 +138,7 @@ export default [
     symbol: "stDOT",
   },
   {
+    index: 17,
     chainId: 1284,
     name: "MoonBeans",
     address: "0x65b09ef8c5a096c5fd3a80f1f7369e56eb932412",
@@ -128,6 +146,7 @@ export default [
     symbol: "BEANS",
   },
   {
+    index: 18,
     chainId: 1284,
     name: "Axelar Wrapped USDC",
     address: "0xca01a1d0993565291051daff390892518acfad3a",
@@ -135,6 +154,7 @@ export default [
     symbol: "axlUSDC",
   },
   {
+    index: 19,
     chainId: 1284,
     name: "USD Coin",
     address: "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d",
@@ -142,6 +162,7 @@ export default [
     symbol: "xcUSDC",
   },
   {
+    index: 20,
     chainId: 1284,
     name: "Dai Stablecoin",
     address: "0x765277eebeca2e31912c9946eae1021199b39c61",
@@ -149,6 +170,7 @@ export default [
     symbol: "DAI",
   },
   {
+    index: 21,
     chainId: 1284,
     name: "Fantom",
     address: "0xc19281f22a075e0f10351cd5d6ea9f0ac63d4327",
@@ -156,6 +178,7 @@ export default [
     symbol: "FTM",
   },
   {
+    index: 22,
     chainId: 1284,
     name: "Take Flight Alpha",
     address: "0xe065ffaf3f7ded69bb5cf5fdd1fd1dda2eee8493",
@@ -163,6 +186,7 @@ export default [
     symbol: "TFA",
   },
   {
+    index: 23,
     chainId: 1284,
     name: "Tether USD",
     address: "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
@@ -170,6 +194,7 @@ export default [
     symbol: "xcUSDT",
   },
   {
+    index: 24,
     chainId: 1284,
     name: "Manta",
     address: "0xffffffff7d3875460d4509eb8d0362c611b4e841",
@@ -177,6 +202,7 @@ export default [
     symbol: "xcMANTA",
   },
   {
+    index: 25,
     chainId: 1284,
     name: "Wrapped BTC",
     address: "0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d",
@@ -184,6 +210,7 @@ export default [
     symbol: "WBTC",
   },
   {
+    index: 26,
     chainId: 1284,
     name: "BRLA Token",
     address: "0xfeb25f3fddad13f82c4d6dbc1481516f62236429",
@@ -191,6 +218,7 @@ export default [
     symbol: "BRLA",
   },
   {
+    index: 27,
     chainId: 1284,
     name: "Bifrost Voucher GLMR",
     address: "0xffffffff99dabe1a8de0ea22baa6fd48fde96f6c",
@@ -198,6 +226,7 @@ export default [
     symbol: "xcvGLMR",
   },
   {
+    index: 28,
     chainId: 1284,
     name: "BNC",
     address: "0xffffffff7cc06abdf7201b350a1265c62c8601d2",
@@ -205,6 +234,7 @@ export default [
     symbol: "xcBNC",
   },
   {
+    index: 29,
     chainId: 1284,
     name: "Convergence",
     address: "0x8006320739fc281da67ee62eb9b4ef8add5c903a",
@@ -212,6 +242,7 @@ export default [
     symbol: "CONV",
   },
   {
+    index: 30,
     chainId: 1284,
     name: "Zeitgeist",
     address: "0xffffffff71815ab6142e0e20c7259126c6b40612",
@@ -219,6 +250,7 @@ export default [
     symbol: "xcZTG",
   },
   {
+    index: 31,
     chainId: 1284,
     name: "BEPRO Network",
     address: "0x4edf8e0778967012d46968ceadb75436d0426f88",
@@ -226,6 +258,7 @@ export default [
     symbol: "BEPRO",
   },
   {
+    index: 32,
     chainId: 1284,
     name: "Nodle",
     address: "0xffffffffe896ba7cb118b9fa571c6dc0a99deff1",
@@ -233,6 +266,7 @@ export default [
     symbol: "xcNODL",
   },
   {
+    index: 33,
     chainId: 1284,
     name: "Energyfi Token",
     address: "0xa423e7eeb60547d9c7b65005477b63ae7ce67e62",
@@ -240,6 +274,7 @@ export default [
     symbol: "EFT",
   },
   {
+    index: 34,
     chainId: 1284,
     name: "Frax Share",
     address: "0x2cc0a9d8047a5011defe85328a6f26968c8aaa1c",
@@ -247,6 +282,7 @@ export default [
     symbol: "FXS",
   },
   {
+    index: 35,
     chainId: 1284,
     name: "HydraDX",
     address: "0xffffffff345dc44ddae98df024eb494321e73fcc",
@@ -254,6 +290,7 @@ export default [
     symbol: "xcHDX",
   },
   {
+    index: 36,
     chainId: 1284,
     name: "Tether USD",
     address: "0xc30e9ca94cf52f3bf5692aacf81353a27052c46f",
@@ -261,6 +298,7 @@ export default [
     symbol: "USDT",
   },
   {
+    index: 37,
     chainId: 1284,
     name: "Synapse",
     address: "0xf44938b0125a6662f9536281ad2cd6c499f22004",
@@ -268,6 +306,7 @@ export default [
     symbol: "SYN",
   },
   {
+    index: 38,
     chainId: 1284,
     name: "Bifrost Voucher DOT",
     address: "0xffffffff15e1b7e3df971dd813bc394deb899abf",
@@ -275,6 +314,7 @@ export default [
     symbol: "xcvDOT",
   },
   {
+    index: 39,
     chainId: 1284,
     name: "Centrifuge",
     address: "0xffffffff44bd9d2ffee20b25d1cf9e78edb6eae3",
@@ -282,6 +322,7 @@ export default [
     symbol: "xcCFG",
   },
   {
+    index: 40,
     chainId: 1284,
     name: "Bifrost Voucher MANTA",
     address: "0xffffffffda2a05fb50e7ae99275f4341aed43379",
@@ -289,6 +330,7 @@ export default [
     symbol: "xcvMANTA",
   },
   {
+    index: 41,
     chainId: 1284,
     name: "USD Coin",
     address: "0x098d6ee48341d6a0a0a72de5baaf80a10e0f6082",
@@ -296,6 +338,7 @@ export default [
     symbol: "USDC",
   },
   {
+    index: 42,
     chainId: 1284,
     name: "Bifrost Voucher ASTR",
     address: "0xffffffff55c732c47639231a4c4373245763d26e",
@@ -303,6 +346,7 @@ export default [
     symbol: "xcvASTR",
   },
   {
+    index: 43,
     chainId: 1284,
     name: "Dai Stablecoin",
     address: "0x06e605775296e851ff43b4daa541bb0984e9d6fd",
@@ -310,6 +354,7 @@ export default [
     symbol: "DAI",
   },
   {
+    index: 44,
     chainId: 1284,
     name: "Acala",
     address: "0xffffffffa922fef94566104a6e5a35a4fcddaa9f",
@@ -317,6 +362,7 @@ export default [
     symbol: "xcACA",
   },
   {
+    index: 45,
     chainId: 1284,
     name: "Astar",
     address: "0xffffffffa893ad19e540e172c10d78d4d479b5cf",
@@ -324,6 +370,7 @@ export default [
     symbol: "xcASTR",
   },
   {
+    index: 46,
     chainId: 1284,
     name: "Acala Liquid DOT",
     address: "0xffffffffa9cfffa9834235fe53f4733f1b8b28d4",
@@ -331,6 +378,7 @@ export default [
     symbol: "xcLDOT",
   },
   {
+    index: 47,
     chainId: 1284,
     name: "Phala Token",
     address: "0xffffffff63d24ecc8eb8a7b5d0803e900f7b6ced",
@@ -338,6 +386,7 @@ export default [
     symbol: "xcPHA",
   },
   {
+    index: 48,
     chainId: 1284,
     name: "Interlay",
     address: "0xffffffff4c1cbcd97597339702436d4f18a375ab",
@@ -345,6 +394,7 @@ export default [
     symbol: "xcINTR",
   },
   {
+    index: 49,
     chainId: 1284,
     name: "Pendulum",
     address: "0xffffffff2257622f345e1acde0d4f46d7d1d77d0",

@@ -3,6 +3,7 @@ export interface ChainWithTokens {
 }
 
 export interface Token {
+  index: number;
   chainId: number;
   name: string;
   address: `0x${string}`;

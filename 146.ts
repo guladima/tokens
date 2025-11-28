@@ -2,6 +2,7 @@ import type { Token } from "./types.ts";
 
 export default [
   {
+    index: 0,
     chainId: 146,
     name: "Infinity",
     address: "0x888852d1c63c7b333efeb1c4c5c79e36ce918888",
@@ -9,6 +10,7 @@ export default [
     symbol: "8",
   },
   {
+    index: 1,
     chainId: 146,
     name: "Dawae",
     address: "0x7a5c61047ad8fa4a743c75eb46a01300c7c9dada",
@@ -16,6 +18,7 @@ export default [
     symbol: "DAWAE",
   },
   {
+    index: 2,
     chainId: 146,
     name: "Wrapped Sonic",
     address: "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
@@ -23,6 +26,7 @@ export default [
     symbol: "wS",
   },
   {
+    index: 3,
     chainId: 146,
     name: "USDC",
     address: "0x29219dd400f2bf60e5a23d13be72b486d4038894",
@@ -30,6 +34,7 @@ export default [
     symbol: "USDC",
   },
   {
+    index: 4,
     chainId: 146,
     name: "JEFE TOKEN",
     address: "0x70e7f1d907e30efb18fe1dd8a1d75c09a98177d3",
@@ -37,6 +42,7 @@ export default [
     symbol: "JEFE",
   },
   {
+    index: 5,
     chainId: 146,
     name: "Shadow",
     address: "0x3333b97138d4b086720b5ae8a7844b1345a33333",
@@ -44,6 +50,7 @@ export default [
     symbol: "SHADOW",
   },
   {
+    index: 6,
     chainId: 146,
     name: "Beets Staked Sonic",
     address: "0xe5da20f15420ad15de0fa650600afc998bbe3955",
@@ -51,6 +58,7 @@ export default [
     symbol: "stS",
   },
   {
+    index: 7,
     chainId: 146,
     name: "Wrapped Ether on Sonic",
     address: "0x50c42deacd8fc9773493ed674b675be577f2634b",
@@ -58,6 +66,7 @@ export default [
     symbol: "WETH",
   },
   {
+    index: 8,
     chainId: 146,
     name: "HeyAnon",
     address: "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
@@ -65,6 +74,7 @@ export default [
     symbol: "Anon",
   },
   {
+    index: 9,
     chainId: 146,
     name: "Equalizer on Sonic",
     address: "0xddf26b42c1d903de8962d3f79a74a501420d5f19",
@@ -72,6 +82,7 @@ export default [
     symbol: "EQUAL",
   },
   {
+    index: 10,
     chainId: 146,
     name: "FantomSonicInu",
     address: "0x05e31a691405d06708a355c029599c12d5da8b28",
@@ -79,6 +90,7 @@ export default [
     symbol: "fSONIC",
   },
   {
+    index: 11,
     chainId: 146,
     name: "Sonic USD",
     address: "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
@@ -86,6 +98,7 @@ export default [
     symbol: "scUSD",
   },
   {
+    index: 12,
     chainId: 146,
     name: "Beets",
     address: "0x2d0e0814e62d80056181f5cd932274405966e4f0",
@@ -93,6 +106,7 @@ export default [
     symbol: "BEETS",
   },
   {
+    index: 13,
     chainId: 146,
     name: "DeFive",
     address: "0xb0695ce12c56aae40894235e2d1888d0b62dd110",
@@ -100,6 +114,7 @@ export default [
     symbol: "FIVE",
   },
   {
+    index: 14,
     chainId: 146,
     name: "Shadow Liquid Staking Token",
     address: "0x3333111a391cc08fa51353e9195526a70b333333",
@@ -107,6 +122,7 @@ export default [
     symbol: "x33",
   },
   {
+    index: 15,
     chainId: 146,
     name: "SwapX",
     address: "0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70",
@@ -114,6 +130,7 @@ export default [
     symbol: "SWPx",
   },
   {
+    index: 16,
     chainId: 146,
     name: "PaintSwap",
     address: "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44",
@@ -121,6 +138,7 @@ export default [
     symbol: "BRUSH",
   },
   {
+    index: 17,
     chainId: 146,
     name: "Metropolis Token",
     address: "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321",
@@ -128,6 +146,7 @@ export default [
     symbol: "METRO",
   },
   {
+    index: 18,
     chainId: 146,
     name: "Origin Sonic",
     address: "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
@@ -135,6 +154,7 @@ export default [
     symbol: "OS",
   },
   {
+    index: 19,
     chainId: 146,
     name: "Tether USD",
     address: "0x6047828dc181963ba44974801ff68e538da5eaf9",
@@ -142,6 +162,7 @@ export default [
     symbol: "USDT",
   },
   {
+    index: 20,
     chainId: 146,
     name: "Muttski",
     address: "0x7f883da3b0d77978075f7c9c03e1b9f461ca1b8d",
@@ -149,6 +170,7 @@ export default [
     symbol: "WOOF",
   },
   {
+    index: 21,
     chainId: 146,
     name: "Pendle",
     address: "0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b",
@@ -156,6 +178,7 @@ export default [
     symbol: "PENDLE",
   },
   {
+    index: 22,
     chainId: 146,
     name: "Wagmi",
     address: "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
@@ -163,6 +186,7 @@ export default [
     symbol: "WAGMI",
   },
   {
+    index: 23,
     chainId: 146,
     name: "fly.trade",
     address: "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f",
@@ -170,6 +194,7 @@ export default [
     symbol: "FLY",
   },
   {
+    index: 24,
     chainId: 146,
     name: "NAVI",
     address: "0x6881b80ea7c858e4aeef63893e18a8a36f3682f3",
@@ -177,6 +202,7 @@ export default [
     symbol: "NAVI",
   },
   {
+    index: 25,
     chainId: 146,
     name: "Sacra token",
     address: "0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2",
@@ -184,6 +210,7 @@ export default [
     symbol: "SACRA",
   },
   {
+    index: 26,
     chainId: 146,
     name: "Lumos",
     address: "0xc0da8629599b364eb0a8921a477fb80440a68bd4",
@@ -191,6 +218,7 @@ export default [
     symbol: "LUMOS",
   },
   {
+    index: 27,
     chainId: 146,
     name: "Wrapped BTC",
     address: "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
@@ -198,6 +226,7 @@ export default [
     symbol: "WBTC",
   },
   {
+    index: 28,
     chainId: 146,
     name: "Sonic Name Service",
     address: "0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5",
@@ -205,6 +234,7 @@ export default [
     symbol: "SNS",
   },
   {
+    index: 29,
     chainId: 146,
     name: "Moon Bay",
     address: "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
@@ -212,6 +242,7 @@ export default [
     symbol: "MOON",
   },
   {
+    index: 30,
     chainId: 146,
     name: "Coal",
     address: "0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6",
@@ -219,6 +250,7 @@ export default [
     symbol: "COAL",
   },
   {
+    index: 31,
     chainId: 146,
     name: "Silver",
     address: "0x005851f943ee2957b1748957f26319e4f9edebc1",
@@ -226,6 +258,7 @@ export default [
     symbol: "$AG",
   },
   {
+    index: 32,
     chainId: 146,
     name: "xFly",
     address: "0x88f8ea30e7c07e2479e39218ade74e3f7f87c7c9",
@@ -233,6 +266,7 @@ export default [
     symbol: "xFLY",
   },
   {
+    index: 33,
     chainId: 146,
     name: "xSILO",
     address: "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
@@ -240,6 +274,7 @@ export default [
     symbol: "xSILO",
   },
   {
+    index: 34,
     chainId: 146,
     name: "Silo Token",
     address: "0xb098afc30fce67f1926e735db6fdadfe433e61db",
@@ -247,6 +282,7 @@ export default [
     symbol: "SILO",
   },
   {
+    index: 35,
     chainId: 146,
     name: "Frax USD",
     address: "0x80eede496655fb9047dd39d9f418d5483ed600df",
@@ -254,6 +290,7 @@ export default [
     symbol: "frxUSD",
   },
   {
+    index: 36,
     chainId: 146,
     name: "Reward EUL",
     address: "0x09e6cab47b7199b9d3839a2c40654f246d518a80",
@@ -261,6 +298,7 @@ export default [
     symbol: "rEUL",
   },
   {
+    index: 37,
     chainId: 146,
     name: "Tails on Sonic",
     address: "0x41211648c51acb9a5f39a93c657e894a0bdb88e4",
@@ -268,6 +306,7 @@ export default [
     symbol: "TAILS",
   },
   {
+    index: 38,
     chainId: 146,
     name: "Fate Adventure",
     address: "0x8ad39144b37741573f85aa03d6c3e817a0054161",
@@ -275,6 +314,7 @@ export default [
     symbol: "FA",
   },
   {
+    index: 39,
     chainId: 146,
     name: "FutureStarter",
     address: "0xbc0d0650412ef353d672c0bbd12efff90591b251",
@@ -282,6 +322,7 @@ export default [
     symbol: "FS",
   },
   {
+    index: 40,
     chainId: 146,
     name: "Staked Frax USD",
     address: "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
@@ -289,6 +330,7 @@ export default [
     symbol: "sfrxUSD",
   },
   {
+    index: 41,
     chainId: 146,
     name: "YELToken",
     address: "0x949185d3be66775ea648f4a306740ea9eff9c567",
@@ -296,6 +338,7 @@ export default [
     symbol: "YEL",
   },
   {
+    index: 42,
     chainId: 146,
     name: "LUDWIG",
     address: "0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5",
@@ -303,6 +346,7 @@ export default [
     symbol: "LUDWIG",
   },
   {
+    index: 43,
     chainId: 146,
     name: "Uniswap",
     address: "0x2fb960611bdc322a9a4a994252658cae9fe2eea1",
@@ -310,6 +354,7 @@ export default [
     symbol: "UNI",
   },
   {
+    index: 44,
     chainId: 146,
     name: "Frax Ether",
     address: "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
@@ -317,6 +362,7 @@ export default [
     symbol: "frxETH",
   },
   {
+    index: 45,
     chainId: 146,
     name: "Atlantis AQUA Token",
     address: "0x9138a8733dce2e877f430b7500e3c229ad7599d9",
@@ -324,6 +370,7 @@ export default [
     symbol: "AQUA",
   },
   {
+    index: 46,
     chainId: 146,
     name: "Rezerve.money",
     address: "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
@@ -331,6 +378,7 @@ export default [
     symbol: "RZR",
   },
   {
+    index: 47,
     chainId: 146,
     name: "Wrapped Frax",
     address: "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
@@ -338,6 +386,7 @@ export default [
     symbol: "WFRAX",
   },
   {
+    index: 48,
     chainId: 146,
     name: "Bridged EURC (Sonic Labs)",
     address: "0xe715cba7b5ccb33790cebff1436809d36cb17e57",
@@ -345,6 +394,7 @@ export default [
     symbol: "EURC.e",
   },
   {
+    index: 49,
     chainId: 146,
     name: "ShibaPoconk",
     address: "0x63a522f6e7d5b96f7aebb74d2648545e9e14078d",

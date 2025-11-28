@@ -2,6 +2,7 @@ import type { Token } from "./types.ts";
 
 export default [
   {
+    index: 0,
     chainId: 8453,
     name: "Sekuya",
     address: "0x623cd3a3edf080057892aaf8d773bbb7a5c9b6e9",
@@ -9,6 +10,7 @@ export default [
     symbol: "SKYA",
   },
   {
+    index: 1,
     chainId: 8453,
     name: "USD Coin",
     address: "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
@@ -16,6 +18,7 @@ export default [
     symbol: "USDC",
   },
   {
+    index: 2,
     chainId: 8453,
     name: "BasedPepe",
     address: "0x52b492a33e447cdb854c7fc19f1e57e8bfa1777d",
@@ -23,6 +26,7 @@ export default [
     symbol: "PEPE",
   },
   {
+    index: 3,
     chainId: 8453,
     name: "Snowy Owl",
     address: "0xa1ca6299ba48366af1845a9a8ae59b87ff0d5c01",
@@ -30,6 +34,7 @@ export default [
     symbol: "SWOL",
   },
   {
+    index: 4,
     chainId: 8453,
     name: "Wrapped Ether",
     address: "0x4200000000000000000000000000000000000006",
@@ -37,6 +42,7 @@ export default [
     symbol: "WETH",
   },
   {
+    index: 5,
     chainId: 8453,
     name: "Slap",
     address: "0x8890de1637912fbbba36b8b19365cdc99122bd6e",
@@ -44,6 +50,7 @@ export default [
     symbol: "SLAP",
   },
   {
+    index: 6,
     chainId: 8453,
     name: "Brian",
     address: "0x3ecced5b416e58664f04a39dd18935eb71d33b15",
@@ -51,6 +58,7 @@ export default [
     symbol: "BRIAN",
   },
   {
+    index: 7,
     chainId: 8453,
     name: "BullRun Meme",
     address: "0xbd33da1f9a0cc70224e9a71c80baa92fd0eb82d0",
@@ -58,6 +66,7 @@ export default [
     symbol: "BRM",
   },
   {
+    index: 8,
     chainId: 8453,
     name: "Tadpole",
     address: "0x55027a5b06f4340cc4c82dcc74c90ca93dcb173e",
@@ -65,6 +74,7 @@ export default [
     symbol: "TAD",
   },
   {
+    index: 9,
     chainId: 8453,
     name: "B3",
     address: "0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3",
@@ -72,6 +82,7 @@ export default [
     symbol: "B3",
   },
   {
+    index: 10,
     chainId: 8453,
     name: "Axolotl Meme",
     address: "0x8c6f889888d22ee1d8aa2954b61b9f10e7402b95",
@@ -79,6 +90,7 @@ export default [
     symbol: "AXOME",
   },
   {
+    index: 11,
     chainId: 8453,
     name: "SATO",
     address: "0x5a70be406ce7471a44f0183b8d7091f4ad751db5",
@@ -86,6 +98,7 @@ export default [
     symbol: "SATO",
   },
   {
+    index: 12,
     chainId: 8453,
     name: "Snow Leopard",
     address: "0xc5a861787f3e173f2b004d5cfa6a717f5dc5484d",
@@ -93,6 +106,7 @@ export default [
     symbol: "SNL",
   },
   {
+    index: 13,
     chainId: 8453,
     name: "IMGN Labs",
     address: "0x9bba915f036158582c20b51113b925f243a1a1a1",
@@ -100,6 +114,7 @@ export default [
     symbol: "IMGN",
   },
   {
+    index: 14,
     chainId: 8453,
     name: "The Nation Token",
     address: "0xd968196fa6977c4e58f2af5ac01c655ea8332d22",
@@ -107,6 +122,7 @@ export default [
     symbol: "NATO",
   },
   {
+    index: 15,
     chainId: 8453,
     name: "Based Mario",
     address: "0x814fe70e85025bec87d4ad3f3b713bdcaac0579b",
@@ -114,6 +130,7 @@ export default [
     symbol: "BARIO",
   },
   {
+    index: 16,
     chainId: 8453,
     name: "Wild Goat Coin",
     address: "0x3d63825b0d8669307366e6c8202f656b9e91d368",
@@ -121,6 +138,7 @@ export default [
     symbol: "WGC",
   },
   {
+    index: 17,
     chainId: 8453,
     name: "Degen",
     address: "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
@@ -128,6 +146,7 @@ export default [
     symbol: "DEGEN",
   },
   {
+    index: 18,
     chainId: 8453,
     name: "Liberty world financial",
     address: "0x2953ca1174b41b28439ef1155235fa699d7b75ba",
@@ -135,6 +154,7 @@ export default [
     symbol: "LWFI",
   },
   {
+    index: 19,
     chainId: 8453,
     name: "Zora",
     address: "0x1111111111166b7fe7bd91427724b487980afc69",
@@ -142,6 +162,7 @@ export default [
     symbol: "ZORA",
   },
   {
+    index: 20,
     chainId: 8453,
     name: "Virtual Protocol",
     address: "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
@@ -149,6 +170,7 @@ export default [
     symbol: "VIRTUAL",
   },
   {
+    index: 21,
     chainId: 8453,
     name: "The Doge NFT",
     address: "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6",
@@ -156,6 +178,7 @@ export default [
     symbol: "DOG",
   },
   {
+    index: 22,
     chainId: 8453,
     name: "Based Bonk",
     address: "0x2dc1c8be620b95cba25d78774f716f05b159c8b9",
@@ -163,6 +186,7 @@ export default [
     symbol: "Bonk",
   },
   {
+    index: 23,
     chainId: 8453,
     name: "Brett2.0",
     address: "0x885129e35d247b01c4485ef6b48564d0ebc8c362",
@@ -170,6 +194,7 @@ export default [
     symbol: "Brett2.0",
   },
   {
+    index: 24,
     chainId: 8453,
     name: "Laïka",
     address: "0x05a5b4e217004eb84c6787e0ecbe7a46cfd94cdd",
@@ -177,6 +202,7 @@ export default [
     symbol: "LAÏKA",
   },
   {
+    index: 25,
     chainId: 8453,
     name: "VIVI",
     address: "0x94a47aa810e85190fed418892ecbd68d5f463ff4",
@@ -184,6 +210,7 @@ export default [
     symbol: "VIVI",
   },
   {
+    index: 26,
     chainId: 8453,
     name: "Pepper",
     address: "0xbf388570ebd5b88bfc7cd21ec469813c15f453a3",
@@ -191,6 +218,7 @@ export default [
     symbol: "PEPPER",
   },
   {
+    index: 27,
     chainId: 8453,
     name: "Aerodrome",
     address: "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
@@ -198,6 +226,7 @@ export default [
     symbol: "AERO",
   },
   {
+    index: 28,
     chainId: 8453,
     name: "USD Base Coin",
     address: "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
@@ -205,6 +234,7 @@ export default [
     symbol: "USDbC",
   },
   {
+    index: 29,
     chainId: 8453,
     name: "Young Peezy AKA Pepe",
     address: "0x1b6a569dd61edce3c383f6d565e2f79ec3a12980",
@@ -212,6 +242,7 @@ export default [
     symbol: "PEEZY",
   },
   {
+    index: 30,
     chainId: 8453,
     name: "weirdo",
     address: "0x76734b57dfe834f102fb61e1ebf844adf8dd931e",
@@ -219,6 +250,7 @@ export default [
     symbol: "weirdo",
   },
   {
+    index: 31,
     chainId: 8453,
     name: "Agen Humpty Dumpty",
     address: "0x313f2cddcdc74747c18d2f529ec9c087860198ed",
@@ -226,6 +258,7 @@ export default [
     symbol: "AHD",
   },
   {
+    index: 32,
     chainId: 8453,
     name: "Moca",
     address: "0x2b11834ed1feaed4b4b3a86a6f571315e25a884d",
@@ -233,6 +266,7 @@ export default [
     symbol: "MOCA",
   },
   {
+    index: 33,
     chainId: 8453,
     name: "ArchAI",
     address: "0xd3b0b58ec9516e4b875a075328e2cb059d4d54db",
@@ -240,6 +274,7 @@ export default [
     symbol: "archai",
   },
   {
+    index: 34,
     chainId: 8453,
     name: "Lambow",
     address: "0x4b61e2f1bbdee6d746209a693156952936f1702c",
@@ -247,6 +282,7 @@ export default [
     symbol: "LAMBOW",
   },
   {
+    index: 35,
     chainId: 8453,
     name: "tokenbot",
     address: "0x1bc0c42215582d5a085795f4badbac3ff36d1bcb",
@@ -254,6 +290,7 @@ export default [
     symbol: "CLANKER",
   },
   {
+    index: 36,
     chainId: 8453,
     name: "Dickbutt",
     address: "0x2d57c47bc5d2432feeedf2c9150162a9862d3ccf",
@@ -261,6 +298,7 @@ export default [
     symbol: "DICKBUTT",
   },
   {
+    index: 37,
     chainId: 8453,
     name: "Synthesizer Dog",
     address: "0x3d1d651761d535df881740ab50ba4bd8a2ec2c00",
@@ -268,6 +306,7 @@ export default [
     symbol: "SYNDOG",
   },
   {
+    index: 38,
     chainId: 8453,
     name: "Chinese Doge Wow",
     address: "0xf31e6d62bfc485857af2186eb3d8ee94b4379fed",
@@ -275,6 +314,7 @@ export default [
     symbol: "CHIDO",
   },
   {
+    index: 39,
     chainId: 8453,
     name: "Luna by Virtuals",
     address: "0x55cd6469f597452b5a7536e2cd98fde4c1247ee4",
@@ -282,6 +322,7 @@ export default [
     symbol: "LUNA",
   },
   {
+    index: 40,
     chainId: 8453,
     name: "CrappyBird",
     address: "0xc8e51fefd7d595c217c7ab641513faa4ad522b26",
@@ -289,6 +330,7 @@ export default [
     symbol: "CRAPPY",
   },
   {
+    index: 41,
     chainId: 8453,
     name: "BLUE",
     address: "0x7f65323e468939073ef3b5287c73f13951b0ff5b",
@@ -296,6 +338,7 @@ export default [
     symbol: "BLUE",
   },
   {
+    index: 42,
     chainId: 8453,
     name: "Mister Miggles",
     address: "0xb1a03eda10342529bbf8eb700a06c60441fef25d",
@@ -303,6 +346,7 @@ export default [
     symbol: "MIGGLES",
   },
   {
+    index: 43,
     chainId: 8453,
     name: "Larva Lads",
     address: "0x40e3eddf6d253bb734381a309437428f121c594b",
@@ -310,6 +354,7 @@ export default [
     symbol: "LAD",
   },
   {
+    index: 44,
     chainId: 8453,
     name: "LayerZero",
     address: "0x6985884c4392d348587b19cb9eaaf157f13271cd",
@@ -317,6 +362,7 @@ export default [
     symbol: "ZRO",
   },
   {
+    index: 45,
     chainId: 8453,
     name: "Tether USD",
     address: "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
@@ -324,6 +370,7 @@ export default [
     symbol: "USDT",
   },
   {
+    index: 46,
     chainId: 8453,
     name: "Dai Stablecoin",
     address: "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
@@ -331,6 +378,7 @@ export default [
     symbol: "DAI",
   },
   {
+    index: 47,
     chainId: 8453,
     name: "Coinbase Wrapped BTC",
     address: "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
@@ -338,6 +386,7 @@ export default [
     symbol: "cbBTC",
   },
   {
+    index: 48,
     chainId: 8453,
     name: "KAITO",
     address: "0x98d0baa52b2d063e780de12f615f963fe8537553",
@@ -345,6 +394,7 @@ export default [
     symbol: "KAITO",
   },
   {
+    index: 49,
     chainId: 8453,
     name: "ETHEREUM ON BASE",
     address: "0x8d285df5be4570097e84241090fca8034ab18547",
@@ -352,6 +402,7 @@ export default [
     symbol: "ETHB",
   },
   {
+    index: 50,
     chainId: 8453,
     name: "Bitcoin on Base",
     address: "0x0c41f1fc9022feb69af6dc666abfe73c9ffda7ce",
@@ -359,6 +410,7 @@ export default [
     symbol: "BTCB",
   },
   {
+    index: 51,
     chainId: 8453,
     name: "Lordy",
     address: "0xe388a9a5bfd958106adeb79df10084a8b1d9a5ab",
@@ -366,6 +418,7 @@ export default [
     symbol: "LORDY",
   },
   {
+    index: 52,
     chainId: 8453,
     name: "Odos Token",
     address: "0xca73ed1815e5915489570014e024b7ebe65de679",
@@ -373,6 +426,7 @@ export default [
     symbol: "ODOS",
   },
   {
+    index: 53,
     chainId: 8453,
     name: "Law of  Attraction",
     address: "0x8d3419b9a18651f3926a205ee0b1acea1e7192de",
@@ -380,6 +434,7 @@ export default [
     symbol: "LOA",
   },
   {
+    index: 54,
     chainId: 8453,
     name: "BOOK OF RUGS",
     address: "0xbbe6693a1825270886fa53167359caa32ff87c5e",
@@ -387,6 +442,7 @@ export default [
     symbol: "BOOK OF RUGS",
   },
   {
+    index: 55,
     chainId: 8453,
     name: "Beni",
     address: "0xde7a416ac821c77478340eebaa21b68297025ef3",
@@ -394,6 +450,7 @@ export default [
     symbol: "BENI",
   },
   {
+    index: 56,
     chainId: 8453,
     name: "GOOEY GUYS",
     address: "0x60000eb0ac0c6c83d88e990066ac69466c35cf1c",
@@ -401,6 +458,7 @@ export default [
     symbol: "GOOEY",
   },
   {
+    index: 57,
     chainId: 8453,
     name: "Aave Base WETH",
     address: "0xd4a0e0b9149bcee3c920d2e00b5de09138fd8bb7",
@@ -408,6 +466,7 @@ export default [
     symbol: "aBasWETH",
   },
   {
+    index: 58,
     chainId: 8453,
     name: "BASED APU",
     address: "0x6f35720b272bf23832852b13ae9888c706e1a379",
@@ -415,6 +474,7 @@ export default [
     symbol: "APU",
   },
   {
+    index: 59,
     chainId: 8453,
     name: "Christ is King",
     address: "0xb5d409f6e679b0f89a669ac9714173177683eb7c",
@@ -422,6 +482,7 @@ export default [
     symbol: "CIK",
   },
   {
+    index: 60,
     chainId: 8453,
     name: "Insane Labz (Base)",
     address: "0x30121d81f4407474a6d93f5c3060f14aaa098a61",
@@ -429,6 +490,7 @@ export default [
     symbol: "Labz",
   },
   {
+    index: 61,
     chainId: 8453,
     name: "Cosmo",
     address: "0x402fb5a74865af5863e099236151f19e04b95868",
@@ -436,6 +498,7 @@ export default [
     symbol: "Cosmo",
   },
   {
+    index: 62,
     chainId: 8453,
     name: "Wormhole Token",
     address: "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
@@ -443,6 +506,7 @@ export default [
     symbol: "W",
   },
   {
+    index: 63,
     chainId: 8453,
     name: "Agent Zero",
     address: "0x92dc4ab92eb16e781559e612f349916988013d5a",
@@ -450,6 +514,7 @@ export default [
     symbol: "WSB",
   },
   {
+    index: 64,
     chainId: 8453,
     name: "TurboUSD Unstablecoin",
     address: "0x3d5e487b21e0569048c4d1a60e98c36e1b09db07",
@@ -457,6 +522,7 @@ export default [
     symbol: "₸USD",
   },
   {
+    index: 65,
     chainId: 8453,
     name: "MAG7.ssi",
     address: "0x9e6a46f294bb67c20f1d1e7afb0bbef614403b55",
@@ -464,6 +530,7 @@ export default [
     symbol: "MAG7.ssi",
   },
   {
+    index: 66,
     chainId: 8453,
     name: "Prompt",
     address: "0x30c7235866872213f68cb1f08c37cb9eccb93452",
@@ -471,6 +538,7 @@ export default [
     symbol: "PROMPT",
   },
   {
+    index: 67,
     chainId: 8453,
     name: "Coinbase Mascot",
     address: "0x38bd574d791a438921de91b88793254e83c97290",
@@ -478,6 +546,7 @@ export default [
     symbol: "CDPANDA",
   },
   {
+    index: 68,
     chainId: 8453,
     name: "AetherX",
     address: "0xfe0c0b15798b8c9107cd4aa556a87eb031263e8b",
@@ -485,6 +554,7 @@ export default [
     symbol: "AETX",
   },
   {
+    index: 69,
     chainId: 8453,
     name: "Barry The Badger",
     address: "0xf09034487c84954d49ae04bf6817148ffc2edb83",
@@ -492,6 +562,7 @@ export default [
     symbol: "BARRY",
   },
   {
+    index: 70,
     chainId: 8453,
     name: "BTRST",
     address: "0xa7d68d155d17cb30e311367c2ef1e82ab6022b67",
@@ -499,6 +570,7 @@ export default [
     symbol: "BTRST",
   },
   {
+    index: 71,
     chainId: 8453,
     name: "Coinbase Wrapped Staked ETH",
     address: "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
@@ -506,6 +578,7 @@ export default [
     symbol: "cbETH",
   },
   {
+    index: 72,
     chainId: 8453,
     name: "GoPlus Security",
     address: "0x0c1dc73159e30c4b06170f2593d3118968a0dca5",
@@ -513,6 +586,7 @@ export default [
     symbol: "GPS",
   },
   {
+    index: 73,
     chainId: 8453,
     name: "clBTC",
     address: "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5",
@@ -520,6 +594,7 @@ export default [
     symbol: "clBTC",
   },
   {
+    index: 74,
     chainId: 8453,
     name: "Maverick Token",
     address: "0x64b88c73a5dfa78d1713fe1b4c69a22d7e0faaa7",
@@ -527,6 +602,7 @@ export default [
     symbol: "MAV",
   },
   {
+    index: 75,
     chainId: 8453,
     name: "Orbiter Token",
     address: "0x514d8e8099286a13486ef6c525c120f51c239b52",
@@ -534,6 +610,7 @@ export default [
     symbol: "OBT",
   },
   {
+    index: 76,
     chainId: 8453,
     name: "donotfomoew",
     address: "0x15ac90165f8b45a80534228bdcb124a011f62fee",
@@ -541,6 +618,7 @@ export default [
     symbol: "MOEW",
   },
   {
+    index: 77,
     chainId: 8453,
     name: "Based Froc",
     address: "0x3c8cd0db9a01efa063a7760267b822a129bc7dca",
@@ -548,6 +626,7 @@ export default [
     symbol: "FROC",
   },
   {
+    index: 78,
     chainId: 8453,
     name: "RUSSELL",
     address: "0x0c5142bc58f9a61ab8c3d2085dd2f4e550c5ce0b",
@@ -555,6 +634,7 @@ export default [
     symbol: "RUSSELL",
   },
   {
+    index: 79,
     chainId: 8453,
     name: "higher",
     address: "0x0578d8a44db98b23bf096a382e016e29a5ce0ffe",
@@ -562,6 +642,7 @@ export default [
     symbol: "HIGHER",
   },
   {
+    index: 80,
     chainId: 8453,
     name: "Aave Token",
     address: "0x63706e401c06ac8513145b7687a14804d17f814b",
@@ -569,6 +650,7 @@ export default [
     symbol: "AAVE",
   },
   {
+    index: 81,
     chainId: 8453,
     name: "Based Chad",
     address: "0xecaf81eb42cd30014eb44130b89bcd6d4ad98b92",
@@ -576,6 +658,7 @@ export default [
     symbol: "CHAD",
   },
   {
+    index: 82,
     chainId: 8453,
     name: "Zlurpee",
     address: "0x42081cf59a145ca4ca51edcee577fc4be3b35dbd",
@@ -583,6 +666,7 @@ export default [
     symbol: "ZLURPEE",
   },
   {
+    index: 83,
     chainId: 8453,
     name: "POΞ",
     address: "0xd429a52a56c712ab8ba11eacd8bf178e7c3b4d80",
@@ -590,6 +674,7 @@ export default [
     symbol: "POΞ",
   },
   {
+    index: 84,
     chainId: 8453,
     name: "cliza",
     address: "0x290f057a2c59b95d8027aa4abf31782676502071",
@@ -597,6 +682,7 @@ export default [
     symbol: "CLIZA",
   },
   {
+    index: 85,
     chainId: 8453,
     name: "Wrapped liquid staked Ether 2.0",
     address: "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
@@ -604,6 +690,7 @@ export default [
     symbol: "wstETH",
   },
   {
+    index: 86,
     chainId: 8453,
     name: "Seraph by Virtuals",
     address: "0x4f81837c2f4a189a0b69370027cc2627d93785b4",
@@ -611,6 +698,7 @@ export default [
     symbol: "SERAPH",
   },
   {
+    index: 87,
     chainId: 8453,
     name: "SKOP Token",
     address: "0x6d3b8c76c5396642960243febf736c6be8b60562",
@@ -618,6 +706,7 @@ export default [
     symbol: "SKOP",
   },
   {
+    index: 88,
     chainId: 8453,
     name: "Morpho Token",
     address: "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
@@ -625,6 +714,7 @@ export default [
     symbol: "MORPHO",
   },
   {
+    index: 89,
     chainId: 8453,
     name: "Neurobro by Virtuals",
     address: "0xc796e499cc8f599a2a8280825d8bda92f7a895e0",
@@ -632,6 +722,7 @@ export default [
     symbol: "BRO",
   },
   {
+    index: 90,
     chainId: 8453,
     name: "cgETH Hashkey Cloud",
     address: "0xf587b7116879a529353cc71ee959cd69fd5cae48",
@@ -639,6 +730,7 @@ export default [
     symbol: "cgETH.hashkey",
   },
   {
+    index: 91,
     chainId: 8453,
     name: "TAOCat by Virtuals",
     address: "0x7a5f5ccd46ebd7ac30615836d988ca3bd57412b3",
@@ -646,6 +738,7 @@ export default [
     symbol: "TAOCAT",
   },
   {
+    index: 92,
     chainId: 8453,
     name: "Venice Token",
     address: "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
@@ -653,6 +746,7 @@ export default [
     symbol: "VVV",
   },
   {
+    index: 93,
     chainId: 8453,
     name: "Unit 00 - Rei",
     address: "0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd",
@@ -660,6 +754,7 @@ export default [
     symbol: "REI",
   },
   {
+    index: 94,
     chainId: 8453,
     name: "Baseswap Token",
     address: "0x78a087d713be963bf307b18f2ff8122ef9a63ae9",
@@ -667,6 +762,7 @@ export default [
     symbol: "BSWAP",
   },
   {
+    index: 95,
     chainId: 8453,
     name: "Seamless",
     address: "0x1c7a460413dd4e964f96d8dfc56e7223ce88cd85",
@@ -674,6 +770,7 @@ export default [
     symbol: "SEAM",
   },
   {
+    index: 96,
     chainId: 8453,
     name: "FAI",
     address: "0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935",
@@ -681,6 +778,7 @@ export default [
     symbol: "FAI",
   },
   {
+    index: 97,
     chainId: 8453,
     name: "GAM3S.GG",
     address: "0xcf67815cce72e682eb4429eca46843bed81ca739",
@@ -688,6 +786,7 @@ export default [
     symbol: "G3",
   },
   {
+    index: 98,
     chainId: 8453,
     name: "Avantis",
     address: "0x696f9436b67233384889472cd7cd58a6fb5df4f1",
@@ -695,6 +794,7 @@ export default [
     symbol: "AVNT",
   },
   {
+    index: 99,
     chainId: 8453,
     name: "EURC",
     address: "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
@@ -702,6 +802,7 @@ export default [
     symbol: "EURC",
   },
   {
+    index: 100,
     chainId: 8453,
     name: "VEIL Token",
     address: "0x767a739d1a152639e9ea1d8c1bd55fdc5b217d7f",
@@ -709,6 +810,7 @@ export default [
     symbol: "VEIL",
   },
   {
+    index: 101,
     chainId: 8453,
     name: "Prime",
     address: "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
@@ -716,6 +818,7 @@ export default [
     symbol: "PRIME",
   },
   {
+    index: 102,
     chainId: 8453,
     name: "Bonk",
     address: "0x72499bddb67f4ca150e1f522ca82c87bc9fb18c8",
@@ -723,6 +826,7 @@ export default [
     symbol: "BONK",
   },
   {
+    index: 103,
     chainId: 8453,
     name: "Rigo Token",
     address: "0x09188484e1ab980daef53a9755241d759c5b7d60",
@@ -730,6 +834,7 @@ export default [
     symbol: "GRG",
   },
   {
+    index: 104,
     chainId: 8453,
     name: "Crash",
     address: "0x4dd9077269dd08899f2a9e73507125962b5bc87f",
@@ -737,6 +842,7 @@ export default [
     symbol: "Crash",
   },
   {
+    index: 105,
     chainId: 8453,
     name: "Horizen",
     address: "0xf43eb8de897fbc7f2502483b2bef7bb9ea179229",
@@ -744,6 +850,7 @@ export default [
     symbol: "ZEN",
   },
   {
+    index: 106,
     chainId: 8453,
     name: "EBERT",
     address: "0xf83cde146ac35e99dd61b6448f7ad9a4534133cc",
@@ -751,6 +858,7 @@ export default [
     symbol: "EBERT",
   },
   {
+    index: 107,
     chainId: 8453,
     name: "SoMon",
     address: "0x5d559ea7bb2dae4b694a079cb8328a2145fd32f6",
@@ -758,6 +866,7 @@ export default [
     symbol: "OwO",
   },
   {
+    index: 108,
     chainId: 8453,
     name: "Renzo Restaked ETH",
     address: "0x2416092f143378750bb29b79ed961ab195cceea5",
@@ -765,6 +874,7 @@ export default [
     symbol: "ezETH",
   },
   {
+    index: 109,
     chainId: 8453,
     name: "Poncho",
     address: "0xc2fe011c3885277c7f0e7ffd45ff90cadc8ecd12",
@@ -772,6 +882,7 @@ export default [
     symbol: "PONCHO",
   },
   {
+    index: 110,
     chainId: 8453,
     name: "Masa Token",
     address: "0xab1e131c6984cc149ef45931073d11ae35497191",
@@ -779,6 +890,7 @@ export default [
     symbol: "MASA",
   },
   {
+    index: 111,
     chainId: 8453,
     name: "Cookie",
     address: "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
@@ -786,6 +898,7 @@ export default [
     symbol: "COOKIE",
   },
   {
+    index: 112,
     chainId: 8453,
     name: "DEFI.ssi",
     address: "0x164ffdae2fe3891714bc2968f1875ca4fa1079d0",
@@ -793,6 +906,7 @@ export default [
     symbol: "DEFI.ssi",
   },
   {
+    index: 113,
     chainId: 8453,
     name: "Henlo Kart",
     address: "0x78aca94075efdfa7220cd7aae02ac1488a8c5134",
@@ -800,6 +914,7 @@ export default [
     symbol: "KART",
   },
   {
+    index: 114,
     chainId: 8453,
     name: "Spectral Token",
     address: "0x96419929d7949d6a801a6909c145c8eef6a40431",
@@ -807,6 +922,7 @@ export default [
     symbol: "SPEC",
   },
   {
+    index: 115,
     chainId: 8453,
     name: "Compound",
     address: "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
@@ -814,6 +930,7 @@ export default [
     symbol: "COMP",
   },
   {
+    index: 116,
     chainId: 8453,
     name: "Rivalz Token",
     address: "0x67543cf0304c19ca62ac95ba82fd4f4b40788dc1",
@@ -821,6 +938,7 @@ export default [
     symbol: "RIZ",
   },
   {
+    index: 117,
     chainId: 8453,
     name: "Based Fartcoin",
     address: "0x2f6c17fa9f9bc3600346ab4e48c0701e1d5962ae",
@@ -828,6 +946,7 @@ export default [
     symbol: "Fartcoin",
   },
   {
+    index: 118,
     chainId: 8453,
     name: "Athena by Virtuals",
     address: "0x1a43287cbfcc5f35082e6e2aa98e5b474fe7bd4e",
@@ -835,6 +954,7 @@ export default [
     symbol: "ATHENA",
   },
   {
+    index: 119,
     chainId: 8453,
     name: "Radiant",
     address: "0xd722e55c1d9d9fa0021a5215cbb904b92b3dc5d4",
@@ -842,6 +962,7 @@ export default [
     symbol: "RDNT",
   },
   {
+    index: 120,
     chainId: 8453,
     name: "HarryPotterObamaSonic10Inu",
     address: "0x2a06a17cbc6d0032cac2c6696da90f29d39a1a29",
@@ -849,6 +970,7 @@ export default [
     symbol: "BITCOIN",
   },
   {
+    index: 121,
     chainId: 8453,
     name: "MEME.ssi",
     address: "0xdd3acdbdc7b358df453a6cb6bca56c92aa5743aa",
@@ -856,6 +978,7 @@ export default [
     symbol: "MEME.ssi",
   },
   {
+    index: 122,
     chainId: 8453,
     name: "Wrapped eETH",
     address: "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
@@ -863,6 +986,7 @@ export default [
     symbol: "weETH",
   },
   {
+    index: 123,
     chainId: 8453,
     name: "Velvet Unicorn by Virtuals",
     address: "0x511ef9ad5e645e533d15df605b4628e3d0d0ff53",
@@ -870,6 +994,7 @@ export default [
     symbol: "VU",
   },
   {
+    index: 124,
     chainId: 8453,
     name: "Super Champs",
     address: "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
@@ -877,6 +1002,7 @@ export default [
     symbol: "CHAMP",
   },
   {
+    index: 125,
     chainId: 8453,
     name: "Heroes of Mavia",
     address: "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
@@ -884,6 +1010,7 @@ export default [
     symbol: "MAVIA",
   },
   {
+    index: 126,
     chainId: 8453,
     name: "Hyperlane",
     address: "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4",
@@ -891,6 +1018,7 @@ export default [
     symbol: "HYPER",
   },
   {
+    index: 127,
     chainId: 8453,
     name: "1000x by Virtuals",
     address: "0x352b850b733ab8bab50aed1dab5d22e3186ce984",
@@ -898,6 +1026,7 @@ export default [
     symbol: "1000X",
   },
   {
+    index: 128,
     chainId: 8453,
     name: "Freya by Virtuals",
     address: "0xf04d220b8136e2d3d4be08081dbb565c3c302ffd",
@@ -905,6 +1034,7 @@ export default [
     symbol: "FREYA",
   },
   {
+    index: 129,
     chainId: 8453,
     name: "OFFICIAL TRUMP",
     address: "0xc27468b12ffa6d714b1b5fbc87ef403f38b82ad4",
@@ -912,6 +1042,7 @@ export default [
     symbol: "TRUMP",
   },
   {
+    index: 130,
     chainId: 8453,
     name: "BALD",
     address: "0xfe20c1b85aba875ea8cecac8200bf86971968f3a",
@@ -919,6 +1050,7 @@ export default [
     symbol: "BALD",
   },
   {
+    index: 131,
     chainId: 8453,
     name: "Rai.Finance",
     address: "0x703d57164ca270b0b330a87fd159cfef1490c0a5",
@@ -926,6 +1058,7 @@ export default [
     symbol: "SOFI",
   },
   {
+    index: 132,
     chainId: 8453,
     name: "Metacade",
     address: "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094",
@@ -933,6 +1066,7 @@ export default [
     symbol: "MCADE",
   },
   {
+    index: 133,
     chainId: 8453,
     name: "Polytrader by Virtuals",
     address: "0x2676e4e0e2eb58d9bdb5078358ff8a3a964cedf5",
@@ -940,6 +1074,7 @@ export default [
     symbol: "POLY",
   },
   {
+    index: 134,
     chainId: 8453,
     name: "BINGO",
     address: "0x1e339a1785b8114eef43e471c49c6ca327479aca",
@@ -947,6 +1082,7 @@ export default [
     symbol: "BINGO",
   },
   {
+    index: 135,
     chainId: 8453,
     name: "boots",
     address: "0x6b9d4e6d4b610709377c07a63c8ac62c6661ab07",
@@ -954,6 +1090,7 @@ export default [
     symbol: "boots",
   },
   {
+    index: 136,
     chainId: 8453,
     name: "Dola USD Stablecoin",
     address: "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
@@ -961,6 +1098,7 @@ export default [
     symbol: "DOLA",
   },
   {
+    index: 137,
     chainId: 8453,
     name: "MANTRA",
     address: "0x3992b27da26848c2b19cea6fd25ad5568b68ab98",
@@ -968,6 +1106,7 @@ export default [
     symbol: "OM",
   },
   {
+    index: 138,
     chainId: 8453,
     name: "AGIXBT by Virtuals",
     address: "0x81496f85abaf8bd2e13d90379fde86c533d8670d",
@@ -975,6 +1114,7 @@ export default [
     symbol: "AGIXBT",
   },
   {
+    index: 139,
     chainId: 8453,
     name: "PAID Network",
     address: "0x655a51e6803faf50d4ace80fa501af2f29c856cf",
@@ -982,6 +1122,7 @@ export default [
     symbol: "PAID",
   },
   {
+    index: 140,
     chainId: 8453,
     name: "Savings USDS",
     address: "0x5875eee11cf8398102fdad704c9e96607675467a",
@@ -989,6 +1130,7 @@ export default [
     symbol: "sUSDS",
   },
   {
+    index: 141,
     chainId: 8453,
     name: "PIGGY",
     address: "0xe3cf8dbcbdc9b220ddead0bd6342e245daff934d",
@@ -996,6 +1138,7 @@ export default [
     symbol: "PIGGY",
   },
   {
+    index: 142,
     chainId: 8453,
     name: "Token Metrics AI",
     address: "0xca4569949699d56e1834efe9f58747ca0f151b01",
@@ -1003,6 +1146,7 @@ export default [
     symbol: "TMAI",
   },
   {
+    index: 143,
     chainId: 8453,
     name: "Flayer",
     address: "0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
@@ -1010,6 +1154,7 @@ export default [
     symbol: "FLAY",
   },
   {
+    index: 144,
     chainId: 8453,
     name: "ZEEBU",
     address: "0x2c8c89c442436cc6c0a77943e09c8daf49da3161",
@@ -1017,6 +1162,7 @@ export default [
     symbol: "ZBU",
   },
   {
+    index: 145,
     chainId: 8453,
     name: "USDz",
     address: "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
@@ -1024,6 +1170,7 @@ export default [
     symbol: "USDz",
   },
   {
+    index: 146,
     chainId: 8453,
     name: "Impossible Cloud Network Token",
     address: "0xe0cd4cacddcbf4f36e845407ce53e87717b6601d",
@@ -1031,6 +1178,7 @@ export default [
     symbol: "ICNT",
   },
   {
+    index: 147,
     chainId: 8453,
     name: "EMAIL Token",
     address: "0xe2c86869216ac578bd62a4b8313770d9ee359a05",
@@ -1038,6 +1186,7 @@ export default [
     symbol: "EMT",
   },
   {
+    index: 148,
     chainId: 8453,
     name: "Send",
     address: "0xeab49138ba2ea6dd776220fe26b7b8e446638956",
@@ -1045,6 +1194,7 @@ export default [
     symbol: "SEND",
   },
   {
+    index: 149,
     chainId: 8453,
     name: "RWA Inc",
     address: "0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
@@ -1052,6 +1202,7 @@ export default [
     symbol: "RWA",
   },
   {
+    index: 150,
     chainId: 8453,
     name: "IMO",
     address: "0x5a7a2bf9ffae199f088b25837dcd7e115cf8e1bb",
@@ -1059,6 +1210,7 @@ export default [
     symbol: "IMO",
   },
   {
+    index: 151,
     chainId: 8453,
     name: "Aavegotchi GHST Token",
     address: "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
@@ -1066,6 +1218,7 @@ export default [
     symbol: "GHST",
   },
   {
+    index: 152,
     chainId: 8453,
     name: "Non-Playable Coin",
     address: "0xb166e8b140d35d9d8226e40c09f757bac5a4d87d",
@@ -1073,6 +1226,7 @@ export default [
     symbol: "NPC",
   },
   {
+    index: 153,
     chainId: 8453,
     name: "Extra Finance",
     address: "0x2dad3a13ef0c6366220f989157009e501e7938f8",
@@ -1080,6 +1234,7 @@ export default [
     symbol: "EXTRA",
   },
   {
+    index: 154,
     chainId: 8453,
     name: "MATH Token",
     address: "0x9e81f6495ba29a6b4d48bddd042c0598fa8abc9f",
@@ -1087,6 +1242,7 @@ export default [
     symbol: "MATH",
   },
   {
+    index: 155,
     chainId: 8453,
     name: "Curve DAO Token",
     address: "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415",
@@ -1094,6 +1250,7 @@ export default [
     symbol: "CRV",
   },
   {
+    index: 156,
     chainId: 8453,
     name: "EURA (previously agEUR)",
     address: "0xa61beb4a3d02decb01039e378237032b351125b4",
@@ -1101,6 +1258,7 @@ export default [
     symbol: "EURA",
   },
   {
+    index: 157,
     chainId: 8453,
     name: "DAWAE",
     address: "0x0ed151c9749d39c3ca8e537125fb4053e0c9b55f",
@@ -1108,6 +1266,7 @@ export default [
     symbol: "DAWAE",
   },
   {
+    index: 158,
     chainId: 8453,
     name: "BMX",
     address: "0x548f93779fbc992010c07467cbaf329dd5f059b7",
@@ -1115,6 +1274,7 @@ export default [
     symbol: "BMX",
   },
   {
+    index: 159,
     chainId: 8453,
     name: "Rocket Pool ETH",
     address: "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
@@ -1122,6 +1282,7 @@ export default [
     symbol: "rETH",
   },
   {
+    index: 160,
     chainId: 8453,
     name: "Clustr",
     address: "0x4b361e60cf256b926ba15f157d69cac9cd037426",
@@ -1129,6 +1290,7 @@ export default [
     symbol: "CLUSTR",
   },
   {
+    index: 161,
     chainId: 8453,
     name: "Sympson by Virtuals",
     address: "0x504a26cf29674bc77a9341e73f88ccecc864034c",
@@ -1136,6 +1298,7 @@ export default [
     symbol: "SYMP",
   },
   {
+    index: 162,
     chainId: 8453,
     name: "MasterDEX Token",
     address: "0xabc5915cad6b54f48b2a8cd516055f378861c237",
@@ -1143,6 +1306,7 @@ export default [
     symbol: "MDEX",
   },
   {
+    index: 163,
     chainId: 8453,
     name: "Sui (Universal)",
     address: "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
@@ -1150,6 +1314,7 @@ export default [
     symbol: "uSUI",
   },
   {
+    index: 164,
     chainId: 8453,
     name: "Moo BIFI",
     address: "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
@@ -1157,6 +1322,7 @@ export default [
     symbol: "mooBIFI",
   },
   {
+    index: 165,
     chainId: 8453,
     name: "AI Agent Layer",
     address: "0xbdf317f9c153246c429f23f4093087164b145390",
@@ -1164,6 +1330,7 @@ export default [
     symbol: "AIFUN",
   },
   {
+    index: 166,
     chainId: 8453,
     name: "USD+",
     address: "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
@@ -1171,6 +1338,7 @@ export default [
     symbol: "USD+",
   },
   {
+    index: 167,
     chainId: 8453,
     name: "AI Voice Agents",
     address: "0xbdb0e1c40a76c5113a023d685b419b90b01e3d61",
@@ -1178,6 +1346,7 @@ export default [
     symbol: "AIVA",
   },
   {
+    index: 168,
     chainId: 8453,
     name: "Tarot",
     address: "0xf544251d25f3d243a36b07e7e7962a678f952691",
@@ -1185,6 +1354,7 @@ export default [
     symbol: "TAROT",
   },
   {
+    index: 169,
     chainId: 8453,
     name: "MPRO",
     address: "0xd88611a629265c9af294ffdd2e7fa4546612273e",
@@ -1192,6 +1362,7 @@ export default [
     symbol: "MPRO",
   },
   {
+    index: 170,
     chainId: 8453,
     name: "Symmio",
     address: "0x800822d361335b4d5f352dac293ca4128b5b605f",
@@ -1199,6 +1370,7 @@ export default [
     symbol: "SYMM",
   },
   {
+    index: 171,
     chainId: 8453,
     name: "AthenaX9",
     address: "0x8e306e02ec1effc4fdad3f952fbeeebf3730ae19",
@@ -1206,6 +1378,7 @@ export default [
     symbol: "AiX9",
   },
   {
+    index: 172,
     chainId: 8453,
     name: "Common Wealth Token",
     address: "0x99b2b1a2adb02b38222adcd057783d7e5d1fcc7d",
@@ -1213,6 +1386,7 @@ export default [
     symbol: "WLTH",
   },
   {
+    index: 173,
     chainId: 8453,
     name: "Based Monsta",
     address: "0xf5c83ea805e5aeff5de24c7da23ef246c2bf8ec7",
@@ -1220,6 +1394,7 @@ export default [
     symbol: "MONSTA",
   },
   {
+    index: 174,
     chainId: 8453,
     name: "Synth Token",
     address: "0xbd2dbb8ecea9743ca5b16423b4eaa26bdcfe5ed2",
@@ -1227,6 +1402,7 @@ export default [
     symbol: "SYNTH",
   },
   {
+    index: 175,
     chainId: 8453,
     name: "TRUMP IP",
     address: "0x00a510c6f786f13231d943fd22d4c45e8c51accf",
@@ -1234,6 +1410,7 @@ export default [
     symbol: "IP",
   },
   {
+    index: 176,
     chainId: 8453,
     name: "Towns",
     address: "0x00000000a22c618fd6b4d7e9a335c4b96b189a38",
@@ -1241,6 +1418,7 @@ export default [
     symbol: "TOWNS",
   },
   {
+    index: 177,
     chainId: 8453,
     name: "Arbus by Virtuals",
     address: "0xbdc27118ca76b375c6887b0ff068afb03dfc21a0",
@@ -1248,6 +1426,7 @@ export default [
     symbol: "ARBUS",
   },
   {
+    index: 178,
     chainId: 8453,
     name: "Nabla",
     address: "0x01ed85d73645523b0d62c7a8e35d03601cfd679b",
@@ -1255,6 +1434,7 @@ export default [
     symbol: "NABLA",
   },
   {
+    index: 179,
     chainId: 8453,
     name: "Workie",
     address: "0x7480527815ccae421400da01e052b120cc4255e9",
@@ -1262,6 +1442,7 @@ export default [
     symbol: "WORKIE",
   },
   {
+    index: 180,
     chainId: 8453,
     name: "Heurist",
     address: "0xef22cb48b8483df6152e1423b19df5553bbd818b",
@@ -1269,6 +1450,7 @@ export default [
     symbol: "HEU",
   },
   {
+    index: 181,
     chainId: 8453,
     name: "COTI AI Agents",
     address: "0x9880dc78d805f71fc761ce2dafd384ddbd26cec3",
@@ -1276,6 +1458,7 @@ export default [
     symbol: "COAI",
   },
   {
+    index: 182,
     chainId: 8453,
     name: "Hive Intelligence",
     address: "0x91da780bc7f4b7cf19abe90411a2a296ec5ff787",
@@ -1283,6 +1466,7 @@ export default [
     symbol: "HINT",
   },
   {
+    index: 183,
     chainId: 8453,
     name: "CertaiK by Virtuals",
     address: "0xf5f2a79eeccf6e7f4c570c803f529930e29cc96b",
@@ -1290,6 +1474,7 @@ export default [
     symbol: "CERTAI",
   },
   {
+    index: 184,
     chainId: 8453,
     name: "Ratio1",
     address: "0x6444c6c2d527d85ea97032da9a7504d6d1448ecf",
@@ -1297,6 +1482,7 @@ export default [
     symbol: "R1",
   },
   {
+    index: 185,
     chainId: 8453,
     name: "Auki Token",
     address: "0xf9569cfb8fd265e91aa478d86ae8c78b8af55df4",
@@ -1304,6 +1490,7 @@ export default [
     symbol: "AUKI",
   },
   {
+    index: 186,
     chainId: 8453,
     name: "ETH Printer",
     address: "0x35bfe9427d37cec78ea1eb9fa922f12ae8a32547",
@@ -1311,6 +1498,7 @@ export default [
     symbol: "ETHPrinter",
   },
   {
+    index: 187,
     chainId: 8453,
     name: "BetSwirl v2",
     address: "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
@@ -1318,6 +1506,7 @@ export default [
     symbol: "BETS",
   },
   {
+    index: 188,
     chainId: 8453,
     name: "Mint Token",
     address: "0xff45161474c39cb00699070dd49582e417b57a7e",
@@ -1325,6 +1514,7 @@ export default [
     symbol: "MT",
   },
   {
+    index: 189,
     chainId: 8453,
     name: "XO Protocol",
     address: "0xc799ada44171b741abf41ee54fb1b47fda5960be",
@@ -1332,6 +1522,7 @@ export default [
     symbol: "XOXO",
   },
   {
+    index: 190,
     chainId: 8453,
     name: "All Your Base",
     address: "0xb96cfc6f81f85c58a1eccdd9ec2ad940e2cb8453",
@@ -1339,6 +1530,7 @@ export default [
     symbol: "AYB",
   },
   {
+    index: 191,
     chainId: 8453,
     name: "Pendle",
     address: "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
@@ -1346,6 +1538,7 @@ export default [
     symbol: "PENDLE",
   },
   {
+    index: 192,
     chainId: 8453,
     name: "Percy",
     address: "0xea6f7e7e0f46a9e0f4e2048eb129d879f609d632",
@@ -1353,6 +1546,7 @@ export default [
     symbol: "PERCY",
   },
   {
+    index: 193,
     chainId: 8453,
     name: "DACKIE Superchain",
     address: "0x73326b4d0225c429bed050c11c4422d91470aaf4",
@@ -1360,6 +1554,7 @@ export default [
     symbol: "DACKIE",
   },
   {
+    index: 194,
     chainId: 8453,
     name: "DeFAI",
     address: "0xf857b2764095b9a5f57c3e71f82f297fe4e45334",
@@ -1367,6 +1562,7 @@ export default [
     symbol: "DEFAI",
   },
   {
+    index: 195,
     chainId: 8453,
     name: "Fuse Token",
     address: "0x01facc69ec7360640aa5898e852326752801674a",
@@ -1374,6 +1570,7 @@ export default [
     symbol: "FUSE",
   },
   {
+    index: 196,
     chainId: 8453,
     name: "Synthetix Network Token",
     address: "0x22e6966b799c4d5b13be962e1d117b56327fda66",
@@ -1381,6 +1578,7 @@ export default [
     symbol: "SNX",
   },
   {
+    index: 197,
     chainId: 8453,
     name: "PoSciDonDAO Token",
     address: "0x25e0a7767d03461eaf88b47cd9853722fe05dfd3",
@@ -1388,6 +1586,7 @@ export default [
     symbol: "SCI",
   },
   {
+    index: 198,
     chainId: 8453,
     name: "KOMPETE Token",
     address: "0x8f019931375454fe4ee353427eb94e2e0c9e0a8c",
@@ -1395,6 +1594,7 @@ export default [
     symbol: "KOMPETE",
   },
   {
+    index: 199,
     chainId: 8453,
     name: "USDS Stablecoin",
     address: "0x820c137fa70c8691f0e44dc420a5e53c168921dc",
@@ -1402,6 +1602,7 @@ export default [
     symbol: "USDS",
   },
   {
+    index: 200,
     chainId: 8453,
     name: "Rebel by Virtuals",
     address: "0x0aa9876c9ccf97be7eed5c4cee91d556bf7dbac3",
@@ -1409,6 +1610,7 @@ export default [
     symbol: "REBELZ",
   },
   {
+    index: 201,
     chainId: 8453,
     name: "BSX",
     address: "0xd47f3e45b23b7594f5d5e1ccfde63237c60be49e",
@@ -1416,6 +1618,7 @@ export default [
     symbol: "BSX",
   },
   {
+    index: 202,
     chainId: 8453,
     name: "Botto",
     address: "0x24914cb6bd01e6a0cf2a9c0478e33c25926e6a0c",
@@ -1423,6 +1626,7 @@ export default [
     symbol: "BOTTO",
   },
   {
+    index: 203,
     chainId: 8453,
     name: "UnlockProtocolToken",
     address: "0xac27fa800955849d6d17cc8952ba9dd6eaa66187",
@@ -1430,6 +1634,7 @@ export default [
     symbol: "UP",
   },
   {
+    index: 204,
     chainId: 8453,
     name: "DeHub",
     address: "0xd20ab1015f6a2de4a6fddebab270113f689c2f7c",
@@ -1437,6 +1642,7 @@ export default [
     symbol: "DHB",
   },
   {
+    index: 205,
     chainId: 8453,
     name: "Primex Finance",
     address: "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
@@ -1444,6 +1650,7 @@ export default [
     symbol: "PMX",
   },
   {
+    index: 206,
     chainId: 8453,
     name: "Birb",
     address: "0xca5c7a459becaac1f2b5ee28bb8a29875b1a37a6",
@@ -1451,6 +1658,7 @@ export default [
     symbol: "BIRB",
   },
   {
+    index: 207,
     chainId: 8453,
     name: "PKT",
     address: "0x917f39bb33b2483dd19546b1e8d2f09ce481ee44",
@@ -1458,6 +1666,7 @@ export default [
     symbol: "PKT",
   },
   {
+    index: 208,
     chainId: 8453,
     name: "Pett AI",
     address: "0x02d4f76656c2b4f58430e91f8ac74896c9281cb9",
@@ -1465,6 +1674,7 @@ export default [
     symbol: "AIP",
   },
   {
+    index: 209,
     chainId: 8453,
     name: "Dackie Token",
     address: "0xc2bc7a73613b9bd5f373fe10b55c59a69f4d617b",
@@ -1472,6 +1682,7 @@ export default [
     symbol: "DACKIE",
   },
   {
+    index: 210,
     chainId: 8453,
     name: "Lingo",
     address: "0xfb42da273158b0f642f59f2ba7cc1d5457481677",
@@ -1479,6 +1690,7 @@ export default [
     symbol: "LINGO",
   },
   {
+    index: 211,
     chainId: 8453,
     name: "Virtu  by Virtuals",
     address: "0x41e0fe1317bd6e8944b037cd59b22d428c1434c2",
@@ -1486,6 +1698,7 @@ export default [
     symbol: "VIRTU ",
   },
   {
+    index: 212,
     chainId: 8453,
     name: "Osaka Protocol",
     address: "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
@@ -1493,6 +1706,7 @@ export default [
     symbol: "OSAK",
   },
   {
+    index: 213,
     chainId: 8453,
     name: "USSI",
     address: "0x3a46ed8fceb6ef1ada2e4600a522ae7e24d2ed18",
@@ -1500,6 +1714,7 @@ export default [
     symbol: "USSI",
   },
   {
+    index: 214,
     chainId: 8453,
     name: "Aaavegotchi Autonomous Agent by Virtuals",
     address: "0x5cf8338e74374eab368784900d6aeca460afa9aa",
@@ -1507,6 +1722,7 @@ export default [
     symbol: "GOTCHI",
   },
   {
+    index: 215,
     chainId: 8453,
     name: "Bull Pepe",
     address: "0x1fdcfdec6fe7a8956bd5b6c4a8c3791ae0a19065",
@@ -1514,6 +1730,7 @@ export default [
     symbol: "BULLPEPE",
   },
   {
+    index: 216,
     chainId: 8453,
     name: "Trump Project 2025",
     address: "0x19bf54d64bc776532ff03937b662226e4af59517",
@@ -1521,6 +1738,7 @@ export default [
     symbol: "MAGA",
   },
   {
+    index: 217,
     chainId: 8453,
     name: "Coinbase Wrapped XRP",
     address: "0xcb585250f852c6c6bf90434ab21a00f02833a4af",
@@ -1528,6 +1746,7 @@ export default [
     symbol: "cbXRP",
   },
   {
+    index: 218,
     chainId: 8453,
     name: "Lympid Token",
     address: "0x4837b18a6d7af6159c8665505b90a2ed393255e0",
@@ -1535,6 +1754,7 @@ export default [
     symbol: "LYP",
   },
   {
+    index: 219,
     chainId: 8453,
     name: "Axelrod by Virtuals",
     address: "0x58db197e91bc8cf1587f75850683e4bd0730e6bf",
@@ -1542,6 +1762,7 @@ export default [
     symbol: "AXR",
   },
   {
+    index: 220,
     chainId: 8453,
     name: "SubQueryToken",
     address: "0x858c50c3af1913b0e849afdb74617388a1a5340d",
@@ -1549,6 +1770,7 @@ export default [
     symbol: "SQT",
   },
   {
+    index: 221,
     chainId: 8453,
     name: "VISION ai by Virtuals",
     address: "0x50d7a818e5e339ebe13b17e130b5b608fac354dc",
@@ -1556,6 +1778,7 @@ export default [
     symbol: "VISION",
   },
   {
+    index: 222,
     chainId: 8453,
     name: "LaunchTokenBot",
     address: "0x63cb9a22cbc00bf9159429e9dede4b88c3dba8ce",
@@ -1563,6 +1786,7 @@ export default [
     symbol: "CAPO",
   },
   {
+    index: 223,
     chainId: 8453,
     name: "DogLibre",
     address: "0xb757977bc882a14db86b048f2abb2f2a14d33184",
@@ -1570,6 +1794,7 @@ export default [
     symbol: "DOGL",
   },
   {
+    index: 224,
     chainId: 8453,
     name: "GEORGE ",
     address: "0x301cbf069cbe1157209b776afd5c9cdaaaacdfe1",
@@ -1577,6 +1802,7 @@ export default [
     symbol: "GEORGE ",
   },
   {
+    index: 225,
     chainId: 8453,
     name: "Basedmilio",
     address: "0x28e29ec91db66733a94ee8e3b86a6199117baf99",
@@ -1584,6 +1810,7 @@ export default [
     symbol: "BASED",
   },
   {
+    index: 226,
     chainId: 8453,
     name: "Aave Base USDbC",
     address: "0x0a1d576f3efef75b330424287a95a366e8281d54",
@@ -1591,6 +1818,7 @@ export default [
     symbol: "aBasUSDbC",
   },
   {
+    index: 227,
     chainId: 8453,
     name: "Docker",
     address: "0x56f8ad6112c2db9f9848243531b277ce1c3be30c",
@@ -1598,6 +1826,7 @@ export default [
     symbol: "docker",
   },
   {
+    index: 228,
     chainId: 8453,
     name: "BIO",
     address: "0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2",
@@ -1605,6 +1834,7 @@ export default [
     symbol: "BIO",
   },
   {
+    index: 229,
     chainId: 8453,
     name: "Sapien",
     address: "0xc729777d0470f30612b1564fd96e8dd26f5814e3",
@@ -1612,6 +1842,7 @@ export default [
     symbol: "SAPIEN",
   },
   {
+    index: 230,
     chainId: 8453,
     name: "launchbot",
     address: "0x03f64375f98aaafb617d18ca1e4a9a85a5c74476",
@@ -1619,6 +1850,7 @@ export default [
     symbol: "ROCKETAI",
   },
   {
+    index: 231,
     chainId: 8453,
     name: "Alpha City",
     address: "0x90ec58ef4cc9f37b96de1e203b65bd4e6e79580e",
@@ -1626,6 +1858,7 @@ export default [
     symbol: "AMETA",
   },
   {
+    index: 232,
     chainId: 8453,
     name: "Torus",
     address: "0x78ec15c5fd8efc5e924e9eebb9e549e29c785867",
@@ -1633,6 +1866,7 @@ export default [
     symbol: "TORUS",
   },
   {
+    index: 233,
     chainId: 8453,
     name: "GRAM Token",
     address: "0x856d602e73545deaa1491a3726cf628d49f74f51",
@@ -1640,6 +1874,7 @@ export default [
     symbol: "GRAM",
   },
   {
+    index: 234,
     chainId: 8453,
     name: "Godcoin",
     address: "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948",
@@ -1647,6 +1882,7 @@ export default [
     symbol: "GOD",
   },
   {
+    index: 235,
     chainId: 8453,
     name: "EstateX",
     address: "0x6a72d3a87f97a0fee2c2ee4233bdaebc32813d7a",
@@ -1654,6 +1890,7 @@ export default [
     symbol: "ESX",
   },
   {
+    index: 236,
     chainId: 8453,
     name: "OpenSocial",
     address: "0xacb5b33ce55ba7729e38b2b59677e71c0112f0d9",
@@ -1661,6 +1898,7 @@ export default [
     symbol: "OSP",
   },
   {
+    index: 237,
     chainId: 8453,
     name: "BasisOS by Virtuals",
     address: "0x73cb479f2ccf77bad90bcda91e3987358437240a",
@@ -1668,6 +1906,7 @@ export default [
     symbol: "BIOS",
   },
   {
+    index: 238,
     chainId: 8453,
     name: "True",
     address: "0x21cfcfc3d8f98fc728f48341d10ad8283f6eb7ab",
@@ -1675,6 +1914,7 @@ export default [
     symbol: "TRUE",
   },
   {
+    index: 239,
     chainId: 8453,
     name: "TRVL",
     address: "0x74aa9bb52b36a378a6e641b86d7acb76dc9b3940",
@@ -1682,6 +1922,7 @@ export default [
     symbol: "TRVL",
   },
   {
+    index: 240,
     chainId: 8453,
     name: "USDe",
     address: "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -1689,6 +1930,7 @@ export default [
     symbol: "USDe",
   },
   {
+    index: 241,
     chainId: 8453,
     name: "Propbase",
     address: "0xd6aaf4d477999fa50c5a1aa35f708862113a73cc",
@@ -1696,6 +1938,7 @@ export default [
     symbol: "PROPS",
   },
   {
+    index: 242,
     chainId: 8453,
     name: "Kame",
     address: "0x2f0464a5da04b3091a328d89183237ffde47e62d",
@@ -1703,6 +1946,7 @@ export default [
     symbol: "KAME",
   },
   {
+    index: 243,
     chainId: 8453,
     name: "PREME Token",
     address: "0x8c62ac3b71db8c81a764b84ffbc2a8d0bad7f111",
@@ -1710,6 +1954,7 @@ export default [
     symbol: "PREME",
   },
   {
+    index: 244,
     chainId: 8453,
     name: "Tribal",
     address: "0xe13e40e8fdb815fbc4a1e2133ab5588c33bac45d",
@@ -1717,6 +1962,7 @@ export default [
     symbol: "TRIBAL",
   },
   {
+    index: 245,
     chainId: 8453,
     name: "Zunami Omni ETH",
     address: "0x24cb2b89844604c57350776d81e14765d03b91de",
@@ -1724,6 +1970,7 @@ export default [
     symbol: "zunETH",
   },
   {
+    index: 246,
     chainId: 8453,
     name: "PACA AI",
     address: "0x3639e6f4c224ebd1bf6373c3d97917d33e0492bb",
@@ -1731,6 +1978,7 @@ export default [
     symbol: "PACA",
   },
   {
+    index: 247,
     chainId: 8453,
     name: "Rwax Token",
     address: "0xe0023e73aab4fe9a22f059a9d27e857e027ee3dc",
@@ -1738,6 +1986,7 @@ export default [
     symbol: "RWAX",
   },
   {
+    index: 248,
     chainId: 8453,
     name: "The Innovation Game",
     address: "0x0c03ce270b4826ec62e7dd007f0b716068639f7b",
@@ -1745,6 +1994,7 @@ export default [
     symbol: "TIG",
   },
   {
+    index: 249,
     chainId: 8453,
     name: "True Base Army",
     address: "0x4dd3313764ee09853ae1ff91556fddaf6afd4c2e",
@@ -1752,6 +2002,7 @@ export default [
     symbol: "TBA",
   },
   {
+    index: 250,
     chainId: 8453,
     name: "Winkies",
     address: "0xbf82115918a88e2120c0f73d99ccd8f95c301b59",
@@ -1759,6 +2010,7 @@ export default [
     symbol: "WNK",
   },
   {
+    index: 251,
     chainId: 8453,
     name: "Magic Internet Money",
     address: "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d",
@@ -1766,6 +2018,7 @@ export default [
     symbol: "MIM",
   },
   {
+    index: 252,
     chainId: 8453,
     name: "AI Protocol",
     address: "0x938171227ece879267122a36847b219cbd3b9d47",
@@ -1773,6 +2026,7 @@ export default [
     symbol: "AI",
   },
   {
+    index: 253,
     chainId: 8453,
     name: "Super OETH",
     address: "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
@@ -1780,6 +2034,7 @@ export default [
     symbol: "superOETHb",
   },
   {
+    index: 254,
     chainId: 8453,
     name: "1INCH Token",
     address: "0xc5fecc3a29fb57b5024eec8a2239d4621e111cbe",
@@ -1787,6 +2042,7 @@ export default [
     symbol: "1INCH",
   },
   {
+    index: 255,
     chainId: 8453,
     name: "ISLAND",
     address: "0x157a6df6b74f4e5e45af4e4615fde7b49225a662",
@@ -1794,6 +2050,7 @@ export default [
     symbol: "ISLAND",
   },
   {
+    index: 256,
     chainId: 8453,
     name: "Lombard Staked Bitcoin",
     address: "0xecac9c5f704e954931349da37f60e39f515c11c1",
@@ -1801,6 +2058,7 @@ export default [
     symbol: "LBTC",
   },
   {
+    index: 257,
     chainId: 8453,
     name: "Mirror Token",
     address: "0xe1bfa25468af64e366ddafc9d91bcc6c97439a14",
@@ -1808,6 +2066,7 @@ export default [
     symbol: "MIRROR",
   },
   {
+    index: 258,
     chainId: 8453,
     name: "Edge",
     address: "0xed6e000def95780fb89734c07ee2ce9f6dcaf110",
@@ -1815,6 +2074,7 @@ export default [
     symbol: "EDGE",
   },
   {
+    index: 259,
     chainId: 8453,
     name: "Seedworld",
     address: "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
@@ -1822,6 +2082,7 @@ export default [
     symbol: "SWORLD",
   },
   {
+    index: 260,
     chainId: 8453,
     name: "Moonwell Flagship USDC",
     address: "0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca",
@@ -1829,6 +2090,7 @@ export default [
     symbol: "mwUSDC",
   },
   {
+    index: 261,
     chainId: 8453,
     name: "ether.fi governance token",
     address: "0x6c240dda6b5c336df09a4d011139beaaa1ea2aa2",
@@ -1836,6 +2098,7 @@ export default [
     symbol: "ETHFI",
   },
   {
+    index: 262,
     chainId: 8453,
     name: "Autonolas",
     address: "0x54330d28ca3357f294334bdc454a032e7f353416",
@@ -1843,6 +2106,7 @@ export default [
     symbol: "OLAS",
   },
   {
+    index: 263,
     chainId: 8453,
     name: "Syndicate",
     address: "0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
@@ -1850,6 +2114,7 @@ export default [
     symbol: "SYND",
   },
   {
+    index: 264,
     chainId: 8453,
     name: "Limitless Official Token",
     address: "0x9eadbe35f3ee3bf3e28180070c429298a1b02f93",
@@ -1857,6 +2122,7 @@ export default [
     symbol: "LMTS",
   },
   {
+    index: 265,
     chainId: 8453,
     name: "Zunami Omni USD",
     address: "0xd5b9ddb04f20ea773c9b56607250149b26049b1f",
@@ -1864,6 +2130,7 @@ export default [
     symbol: "zunUSD",
   },
   {
+    index: 266,
     chainId: 8453,
     name: "myEva",
     address: "0x000307575269863b6cb67916b9e7fc3c6235c000",
@@ -1871,6 +2138,7 @@ export default [
     symbol: "MYEVA",
   },
   {
+    index: 267,
     chainId: 8453,
     name: "Staked USDe",
     address: "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
@@ -1878,6 +2146,7 @@ export default [
     symbol: "sUSDe",
   },
   {
+    index: 268,
     chainId: 8453,
     name: "Mira",
     address: "0x7aafd31a321d3627b30a8e2171264b56852187fe",
@@ -1885,6 +2154,7 @@ export default [
     symbol: "MIRA",
   },
   {
+    index: 269,
     chainId: 8453,
     name: "DRINK",
     address: "0x2dc90fa3a0f178ba4bee16cac5d6c9a5a7b4c6cb",
@@ -1892,6 +2162,7 @@ export default [
     symbol: "DRINK",
   },
   {
+    index: 270,
     chainId: 8453,
     name: "MOR",
     address: "0x7431ada8a591c955a994a21710752ef9b882b8e3",
@@ -1899,6 +2170,7 @@ export default [
     symbol: "MOR",
   },
   {
+    index: 271,
     chainId: 8453,
     name: "RobotBulls",
     address: "0x7ecc65a5e734a8bcaf24eea0ac9c7cfe6355bc30",
@@ -1906,6 +2178,7 @@ export default [
     symbol: "RBT",
   },
   {
+    index: 272,
     chainId: 8453,
     name: "AnonFi",
     address: "0x75e6b648c91d222b2f6318e8ceeed4b691d5323f",
@@ -1913,6 +2186,7 @@ export default [
     symbol: "ANON",
   },
   {
+    index: 273,
     chainId: 8453,
     name: "Capminal by Virtuals",
     address: "0xbfa733702305280f066d470afdfa784fa70e2649",
@@ -1920,6 +2194,7 @@ export default [
     symbol: "CAP",
   },
   {
+    index: 274,
     chainId: 8453,
     name: "FREE GUAC",
     address: "0x9a2270cc7d21be4225d2c5c588e86c24395f77c1",
@@ -1927,6 +2202,7 @@ export default [
     symbol: "GUAC",
   },
   {
+    index: 275,
     chainId: 8453,
     name: "Crestal Nation",
     address: "0x2f74f818e81685c8086dd783837a4605a90474b8",
@@ -1934,6 +2210,7 @@ export default [
     symbol: "NATION",
   },
   {
+    index: 276,
     chainId: 8453,
     name: "yearn.finance",
     address: "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
@@ -1941,6 +2218,7 @@ export default [
     symbol: "YFI",
   },
   {
+    index: 277,
     chainId: 8453,
     name: "GURU Token",
     address: "0x0f1cfd0bb452db90a3bfc0848349463010419ab2",
@@ -1948,6 +2226,7 @@ export default [
     symbol: "GURU",
   },
   {
+    index: 278,
     chainId: 8453,
     name: "MIA",
     address: "0x7cea5b9548a4b48cf9551813ef9e73de916e41e0",
@@ -1955,6 +2234,7 @@ export default [
     symbol: "MIA",
   },
   {
+    index: 279,
     chainId: 8453,
     name: "Eagle AI",
     address: "0x6797b6244fa75f2e78cdffc3a4eb169332b730cc",
@@ -1962,6 +2242,7 @@ export default [
     symbol: "EAI",
   },
   {
+    index: 280,
     chainId: 8453,
     name: "717ai by Virtuals",
     address: "0x0b3ae50babe7ffa4e1a50569cee6bdefd4ccaee0",
@@ -1969,6 +2250,7 @@ export default [
     symbol: "WIRE",
   },
   {
+    index: 281,
     chainId: 8453,
     name: "PARTI Token",
     address: "0x59264f02d301281f3393e1385c0aefd446eb0f00",
@@ -1976,6 +2258,7 @@ export default [
     symbol: "PARTI",
   },
   {
+    index: 282,
     chainId: 8453,
     name: "Wrapped BTC",
     address: "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
@@ -1983,6 +2266,7 @@ export default [
     symbol: "WBTC",
   },
   {
+    index: 283,
     chainId: 8453,
     name: "Libertai",
     address: "0xf8b1b47aa748f5c7b5d0e80c726a843913eb573a",
@@ -1990,6 +2274,7 @@ export default [
     symbol: "LTAI",
   },
   {
+    index: 284,
     chainId: 8453,
     name: "AI Market Compass",
     address: "0x97b959385dfdcaf252223838746beb232ac601aa",
@@ -1997,6 +2282,7 @@ export default [
     symbol: "AIM",
   },
   {
+    index: 285,
     chainId: 8453,
     name: "Eli5a",
     address: "0xd413485aa9ca4f88419904255a2384f667dddcab",
@@ -2004,6 +2290,7 @@ export default [
     symbol: "ELI5A",
   },
   {
+    index: 286,
     chainId: 8453,
     name: "Baby Hamster Kombat",
     address: "0x089d91926e43cd7318198922d548189470ca25f2",
@@ -2011,6 +2298,7 @@ export default [
     symbol: "HMSTR",
   },
   {
+    index: 287,
     chainId: 8453,
     name: "EARNM",
     address: "0x3e62fed35c97145e6b445704b8ce74b2544776a9",
@@ -2018,6 +2306,7 @@ export default [
     symbol: "EARNM",
   },
   {
+    index: 288,
     chainId: 8453,
     name: "TREB",
     address: "0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e",
@@ -2025,6 +2314,7 @@ export default [
     symbol: "TREB",
   },
   {
+    index: 289,
     chainId: 8453,
     name: "AWE Network",
     address: "0x1b4617734c43f6159f3a70b7e06d883647512778",
@@ -2032,6 +2322,7 @@ export default [
     symbol: "AWE",
   },
   {
+    index: 290,
     chainId: 8453,
     name: "Avail (Wormhole)",
     address: "0xd89d90d26b48940fa8f58385fe84625d468e057a",
@@ -2039,6 +2330,7 @@ export default [
     symbol: "AVAIL",
   },
   {
+    index: 291,
     chainId: 8453,
     name: "WAGMI",
     address: "0x7466de7bb8b5e41ee572f4167de6be782a7fa75d",
@@ -2046,6 +2338,7 @@ export default [
     symbol: "WAGMI",
   },
   {
+    index: 292,
     chainId: 8453,
     name: "Pyth Network",
     address: "0x4c5d8a75f3762c1561d96f177694f67378705e98",
@@ -2053,6 +2346,7 @@ export default [
     symbol: "PYTH",
   },
   {
+    index: 293,
     chainId: 8453,
     name: "Aviator",
     address: "0x3203856eac03d343f9d5245ba2f39861838a7b36",
@@ -2060,6 +2354,7 @@ export default [
     symbol: "AVI",
   },
   {
+    index: 294,
     chainId: 8453,
     name: "MetaYield",
     address: "0x677db5a751fbd0b130ddc02715223d9da4a98f8f",
@@ -2067,6 +2362,7 @@ export default [
     symbol: "MY",
   },
   {
+    index: 295,
     chainId: 8453,
     name: "PILOT3 by Virtuals",
     address: "0x61bebce04b9bd9bc333127b7058bb5458b3421e6",
@@ -2074,6 +2370,7 @@ export default [
     symbol: "PTAI",
   },
   {
+    index: 296,
     chainId: 8453,
     name: "INT OS",
     address: "0x42e07fa3d31190731368ca2f88d12d80139dca42",
@@ -2081,6 +2378,7 @@ export default [
     symbol: "INTOS",
   },
   {
+    index: 297,
     chainId: 8453,
     name: "PokPok Golden Egg",
     address: "0x82b0e1a2374ea0198f62a48b14ffab53db6c1e36",
@@ -2088,6 +2386,7 @@ export default [
     symbol: "PEGG",
   },
   {
+    index: 298,
     chainId: 8453,
     name: "Florence Finance Medici",
     address: "0xb4e1b230dd0476238fc64c99ff9d6ccdfdb2258d",
@@ -2095,6 +2394,7 @@ export default [
     symbol: "FFM",
   },
   {
+    index: 299,
     chainId: 8453,
     name: "MASQ",
     address: "0x45d9c101a3870ca5024582fd788f4e1e8f7971c3",
